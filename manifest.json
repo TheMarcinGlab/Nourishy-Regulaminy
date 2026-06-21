@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "repository": "TheMarcinGlab/Nourishy-Regulaminy",
+  "branch": "main",
+  "documents": {
+    "termsOfService": {
+      "required": true,
+      "locales": {
+        "pl": {
+          "version": "2026-04-30",
+          "file": "PL/Regulamin_Serwisu_Nourishy.md",
+          "title": "Regulamin serwisu Nourishy",
+          "subtitle": "Zasady korzystania z aplikacji"
+        },
+        "en": {
+          "version": "2026-04-30",
+          "file": "EN/Terms_of_Service_Nourishy.md",
+          "title": "Nourishy Terms of Service",
+          "subtitle": "Rules for using the app"
+        },
+        "es": {
+          "version": "2026-04-30",
+          "file": "ES/Terminos_del_Servicio_Nourishy.md",
+          "title": "Términos del servicio Nourishy",
+          "subtitle": "Normas de uso de la aplicación"
+        }
+      }
+    },
+    "privacyPolicy": {
+      "required": true,
+      "locales": {
+        "pl": {
+          "version": "2026-06-21",
+          "file": "PL/Polityka_Prywatnosci_Nourishy.md",
+          "title": "Polityka prywatności",
+          "subtitle": "RODO i ochrona danych"
+        },
+        "en": {
+          "version": "2026-06-21",
+          "file": "EN/Privacy_Policy_Nourishy.md",
+          "title": "Privacy Policy",
+          "subtitle": "GDPR and data protection"
+        },
+        "es": {
+          "version": "2026-06-21",
+          "file": "ES/Politica_de_Privacidad_Nourishy.md",
+          "title": "Política de privacidad",
+          "subtitle": "RGPD y protección de datos"
+        }
+      }
+    },
+    "healthDisclaimer": {
+      "required": true,
+      "locales": {
+        "pl": {
+          "version": "2026-04-30",
+          "file": "PL/Zastrzezenie_Zdrowotne_Nourishy.md",
+          "title": "Zastrzeżenie zdrowotne",
+          "subtitle": "Aplikacja nie zastępuje porady medycznej"
+        },
+        "en": {
+          "version": "2026-04-30",
+          "file": "EN/Health_Disclaimer_Nourishy.md",
+          "title": "Health disclaimer",
+          "subtitle": "The app does not replace medical advice"
+        },
+        "es": {
+          "version": "2026-04-30",
+          "file": "ES/Aviso_de_Salud_Nourishy.md",
+          "title": "Aviso de salud",
+          "subtitle": "La app no sustituye el consejo médico"
+        }
+      }
+    },
+    "subscriptionTerms": {
+      "required": true,
+      "locales": {
+        "pl": {
+          "version": "2026-06-21",
+          "file": "PL/Regulamin_Subskrypcji_Nourishy_Premium.md",
+          "title": "Regulamin subskrypcji Premium",
+          "subtitle": "Płatności, trial i anulowanie"
+        },
+        "en": {
+          "version": "2026-06-21",
+          "file": "EN/Regulamin_Subskrypcji_Nourishy_Premium.md",
+          "title": "Premium subscription terms",
+          "subtitle": "Payments, trial and cancellation"
+        },
+        "es": {
+          "version": "2026-06-21",
+          "file": "ES/Reglamento_Suscripcion_Nourishy_Premium.md",
+          "title": "Términos de suscripción Premium",
+          "subtitle": "Pagos, prueba y cancelación"
+        }
+      }
+    },
+    "supportCenter": {
+      "required": true,
+      "locales": {
+        "pl": {
+          "version": "2026-06-21",
+          "file": "PL/Centrum_Pomocy_i_Wspacza_Technicznego_Nourishy.md",
+          "title": "Centrum pomocy",
+          "subtitle": "FAQ, kontakt i wsparcie techniczne"
+        },
+        "en": {
+          "version": "2026-06-21",
+          "file": "EN/Help_and_Support_Center_Nourishy.md",
+          "title": "Help center",
+          "subtitle": "FAQ, contact and technical support"
+        },
+        "es": {
+          "version": "2026-06-21",
+          "file": "ES/Centro_de_Ayuda_Nourishy.md",
+          "title": "Centro de ayuda",
+          "subtitle": "FAQ, contacto y soporte técnico"
+        }
+      }
+    }
+  }
+}
