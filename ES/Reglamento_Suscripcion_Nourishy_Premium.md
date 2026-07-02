@@ -51,7 +51,7 @@ Este documento constituye el reglamento para la prestación de servicios por ví
 
 ---
 
-## 🤖 § 6. Distribución de Obligaciones y Responsabilidad de los Módulos de IA
+## 🤖 6. Distribución de Obligaciones y Responsabilidad de los Módulos de IA
 
 * **6.1.** El Proveedor de Servicios ofrece herramientas avanzadas basadas en algoritmos de inteligencia artificial (IA). Los planes de comidas, las propuestas de recetas, las listas de compras, el frigorífico virtual y los análisis de macronutrientes a partir de fotos y códigos de barras se generan de forma automática y probabilística. Estos contenidos tienen un carácter puramente orientativo, de estilo de vida y educativo.
 * **6.2.** El Proveedor de Servicios proporciona una infraestructura tecnológica basada en modelos de inteligencia artificial (IA), cuyo único objetivo es el apoyo al estilo de vida y la educación del Usuario. Dada la naturaleza probabilística del modelado lingüístico y del análisis de imágenes, los algoritmos de IA pueden generar errores, incluidas las llamadas alucinaciones, interpretar erróneamente fotos de platos, códigos de barras o pasar por alto las exclusiones dietéticas declaradas.

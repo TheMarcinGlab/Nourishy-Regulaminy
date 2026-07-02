@@ -4,7 +4,7 @@
 
 ---
 
-## 2. Absolutne wyłączenie odpowiedzialności medycznej
+## 1. Absolutne wyłączenie odpowiedzialności medycznej
 
 ### To nie jest lekarz
 

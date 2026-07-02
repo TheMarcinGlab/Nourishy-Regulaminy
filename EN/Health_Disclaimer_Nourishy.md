@@ -4,7 +4,7 @@
 
 ---
 
-## 2. Absolute medical liability disclaimer
+## 1. Absolute medical liability disclaimer
 
 ### This is not a doctor
 

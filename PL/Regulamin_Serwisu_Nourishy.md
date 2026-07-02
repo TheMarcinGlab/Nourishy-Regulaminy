@@ -15,7 +15,7 @@ Użytkownikiem może być wyłącznie osoba pełnoletnia (powyżej 18. roku życ
 
 ---
 
-## 3. Funkcje i usługi
+## 2. Funkcje i usługi
 
 * **Logowanie i onboarding:** Obsługiwane przez Auth0. Dane profilowe i preferencje służą do personalizacji, ale nie gwarantują dopasowania medycznego.
 * **Skanowanie (foto / kod kreskowy):** Wyniki analizy obrazu są szacunkowe. Baza danych kodów może zawierać błędy wprowadzone przez osoby trzecie.
@@ -24,7 +24,7 @@ Użytkownikiem może być wyłącznie osoba pełnoletnia (powyżej 18. roku życ
 
 ---
 
-## 4. Model subskrypcyjny (Premium)
+## 3. Model subskrypcyjny (Premium)
 
 Dostęp do zaawansowanych funkcji (np. generowanie wielodniowych planów) wymaga opłacenia subskrypcji przez paywall.
 
@@ -34,7 +34,7 @@ Subskrypcje odnawiają się automatycznie, chyba że zostaną anulowane zgodnie 
 
 ---
 
-## 6. Własność intelektualna
+## 4. Własność intelektualna
 
 Wszystkie algorytmy, kod aplikacji oraz materiały edukacyjne są własnością Marcina Głaba.
 
@@ -42,7 +42,7 @@ Użytkownik przesyłając zdjęcia posiłków udziela Marcinowi Głabowi licencj
 
 ---
 
-## 7. Postanowienia końcowe
+## 5. Postanowienia końcowe
 
 Marcin Głąb zastrzega sobie prawo do zmiany regulaminu oraz funkcji aplikacji w dowolnym momencie.
 

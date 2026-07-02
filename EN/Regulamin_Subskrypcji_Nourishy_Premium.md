@@ -51,7 +51,7 @@ This document constitutes the terms and conditions for the provision of electron
 
 ---
 
-## 🤖 § 6. Division of Obligations and Liability for AI Modules
+## 🤖 6. Division of Obligations and Liability for AI Modules
 
 * **6.1.** The Service Provider delivers advanced tools based on artificial intelligence (AI) algorithms. Meal plans, recipe suggestions, shopping lists, the virtual refrigerator, and macronutrient analyses from photos and barcodes are generated automatically and probabilistically. This content is for guidance, lifestyle, and educational purposes only.
 * **6.2.** The Service Provider provides a technological infrastructure based on artificial intelligence (AI) models, whose sole purpose is the lifestyle and educational support of the User. Given the probabilistic nature of language modeling and image analysis, AI algorithms may generate errors, including so-called hallucinations, misinterpret photos of dishes, barcodes, or omit declared dietary exclusions.

@@ -15,7 +15,7 @@ Solo pueden utilizar el servicio personas mayores de edad (mayores de 18 años).
 
 ---
 
-## 3. Funciones y servicios
+## 2. Funciones y servicios
 
 * **Inicio de sesión y onboarding:** Gestionados por Auth0. Los datos de perfil y preferencias se usan para personalización, pero no garantizan un ajuste médico.
 * **Escaneo (foto / código de barras):** Los resultados del análisis de imagen son estimaciones. La base de datos de códigos puede contener errores introducidos por terceros.
@@ -24,7 +24,7 @@ Solo pueden utilizar el servicio personas mayores de edad (mayores de 18 años).
 
 ---
 
-## 4. Modelo de suscripción (Premium)
+## 3. Modelo de suscripción (Premium)
 
 El acceso a funciones avanzadas (p. ej. generación de planes de varios días) requiere una suscripción de pago a través del paywall.
 
@@ -34,7 +34,7 @@ Las suscripciones se renuevan automáticamente salvo cancelación conforme a las
 
 ---
 
-## 6. Propiedad intelectual
+## 4. Propiedad intelectual
 
 Todos los algoritmos, el código de la aplicación y los materiales educativos son propiedad de Marcin Głąb.
 
@@ -42,7 +42,7 @@ Al subir fotos de comidas, el usuario concede a Marcin Głąb una licencia para 
 
 ---
 
-## 7. Disposiciones finales
+## 5. Disposiciones finales
 
 Marcin Głąb se reserva el derecho de modificar estos términos y las funciones de la aplicación en cualquier momento.
 

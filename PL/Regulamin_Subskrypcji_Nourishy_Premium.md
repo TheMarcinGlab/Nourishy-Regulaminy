@@ -52,7 +52,7 @@ Niniejszy dokument stanowi regulamin świadczenia usług drogą elektroniczną w
 
 ---
 
-## 🤖 § 6. Podział Obowiązków i Odpowiedzialność za Moduły AI
+## 🤖 6. Podział Obowiązków i Odpowiedzialność za Moduły AI
 
 * **6.1.** Usługodawca dostarcza zaawansowane narzędzia oparte na algorytmach sztucznej inteligencji (AI). Plany posiłków, propozycje przepisów, listy zakupów, wirtualna lodówka oraz analizy makroskładników ze zdjęć i kodów kreskowych są generowane w sposób automatyczny i probabilistyczny. Treści te mają charakter wyłącznie orientacyjny, lifestylowy i edukacyjny.
 * **6.2.** Usługodawca dostarcza infrastrukturę technologiczną opartą na modelach sztucznej inteligencji (AI), której celem jest wyłącznie wsparcie lifestylowe i edukacyjne Użytkownika. Zważywszy na probabilistyczny charakter modelowania językowego i analizy obrazu, algorytmy AI mogą generować błędy, w tym tzw. halucynacje, błędnie interpretować zdjęcia potraw, kody kreskowe lub pomijać zadeklarowane wykluczenia dietetyczne.

@@ -4,7 +4,7 @@
 
 ---
 
-## 2. Exclusión absoluta de responsabilidad médica
+## 1. Exclusión absoluta de responsabilidad médica
 
 ### Esto no es un médico
 
