@@ -53,11 +53,14 @@ Proces autentykacji, logowania oraz resetowania haseł w aplikacji Nourishy jest
 * Jeśli błąd nadal występuje, skontaktuj się z nami pod adresem [support@nourishy.eu](mailto:support@nourishy.eu), podając markę i model urządzenia oraz wersję systemu (iOS/Android).
 
 ### 5. Jaki jest minimalny wiek Użytkownika aplikacji?
-Aplikacja przeznaczona jest wyłącznie dla osób, które ukończyły **16 rok życia** i posiadają pełną zdolność do czynności prawnych. Ze względu na przetwarzanie szczególnych kategorii danych (dane o zdrowiu i alergiach), Nourishy nie zbiera w sposób świadomy danych osób młodszych. Konta użytkowników poniżej 16 roku życia będą natychmiast usuwane.
+Aplikacja przeznaczona jest wyłącznie dla osób pełnoletnich, które ukończyły **18 rok życia**. Ze względu na przetwarzanie szczególnych kategorii danych (dane o zdrowiu i alergiach), Nourishy nie zbiera w sposób świadomy danych osób młodszych. Konta użytkowników poniżej 18 roku życia będą natychmiast usuwane.
 
 ---
 
 ## 📄 Ważne dokumenty prawne
 Przed wysłaniem zgłoszenia zachęcamy do zapoznania się z naszymi pełnymi dokumentami prawnymi, które szczegółowo opisują zasady działania aplikacji, subskrypcji oraz pełną ochronę Twojej prywatności:
-* Polityka Prywatności Aplikacji Nourishy
-* Regulamin Subskrypcji Nourishy Premium
+
+* [Regulamin Serwisu i Aplikacji Nourishy](Regulamin_Serwisu_Nourishy.md)
+* [Regulamin Subskrypcji Nourishy Premium](Regulamin_Subskrypcji_Nourishy_Premium.md)
+* [Polityka Prywatności Aplikacji Nourishy](Polityka_Prywatnosci_Nourishy.md)
+* [Zastrzeżenie Zdrowotne](Zastrzezenie_Zdrowotne_Nourishy.md)
