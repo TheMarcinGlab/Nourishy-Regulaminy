@@ -1,7 +1,7 @@
 # 📜 Regulamin Serwisu i Aplikacji Nourishy
 
 **Właściciel i Usługodawca:** Marcin Głąb  
-**Data ostatniej aktualizacji:** 5 lipca 2026 r.
+**Data ostatniej aktualizacji:** 18 lipca 2026 r.
 
 Niniejszy regulamin określa zasady korzystania z aplikacji mobilnej Nourishy (identyfikator aplikacji: `com.nourishy.app`), zwanej dalej **„Aplikacją”**. Korzystając z Aplikacji, użytkownik akceptuje niniejszy Regulamin w całości.
 
@@ -29,8 +29,8 @@ Niniejszy regulamin określa zasady korzystania z aplikacji mobilnej Nourishy (i
 
 ## 3. Subskrypcja Premium
 
-* **3.1.** Dostęp do zaawansowanych funkcji (m.in. generowanie wielodniowych planów, nielimitowane skanowanie, widżety) wymaga aktywnej subskrypcji Premium.
-* **3.2.** Szczegółowe warunki subskrypcji — w tym cennik, 10-dniowy okres próbny, automatyczne odnowienie, anulowanie i zwroty — określa [Regulamin Subskrypcji Nourishy Premium](Regulamin_Subskrypcji_Nourishy_Premium.md).
+* **3.1.** Dostęp do zaawansowanych funkcji (m.in. generowanie wielodniowych planów, skanowanie, widżety) wymaga aktywnej subskrypcji Premium. Funkcje Premium podlegają limitom Fair Use.
+* **3.2.** Szczegółowe warunki subskrypcji — w tym cennik, 10-dniowy okres próbny, automatyczne odnowienie, anulowanie, zwroty oraz **konkretne limity Fair Use (pkt 8)** — określa [Regulamin Subskrypcji Nourishy Premium](Regulamin_Subskrypcji_Nourishy_Premium.md).
 * **3.3.** Płatności są obsługiwane wyłącznie przez **Apple App Store** lub **Google Play** (z integracją RevenueCat). Usługodawca nie przechowuje danych kart płatniczych.
 * **3.4.** Brak opłaconej subskrypcji skutkuje ograniczeniem dostępu do funkcji Premium. Subskrypcje odnawiają się automatycznie, chyba że zostaną anulowane w ustawieniach konta Apple/Google.
 

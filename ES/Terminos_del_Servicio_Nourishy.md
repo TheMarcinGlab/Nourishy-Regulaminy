@@ -1,7 +1,7 @@
 # 📜 Términos del Servicio y de la Aplicación Nourishy
 
 **Propietario y Proveedor del Servicio:** Marcin Głąb  
-**Fecha de última actualización:** 5 de julio de 2026
+**Fecha de última actualización:** 18 de julio de 2026
 
 Los presentes términos regulan el uso de la aplicación móvil Nourishy (identificador de la aplicación: `com.nourishy.app`), en adelante la **«Aplicación»**. Al utilizar la Aplicación, el usuario acepta íntegramente estos Términos.
 
@@ -29,8 +29,8 @@ Los presentes términos regulan el uso de la aplicación móvil Nourishy (identi
 
 ## 3. Suscripción Premium
 
-* **3.1.** El acceso a funciones avanzadas (entre otras, generación de planes de varios días, escaneo ilimitado, widgets) requiere una suscripción Premium activa.
-* **3.2.** Las condiciones detalladas de la suscripción — incluidos precios, período de prueba de 10 días, renovación automática, cancelación y reembolsos — se establecen en los [Términos de Suscripción Nourishy Premium](Reglamento_Suscripcion_Nourishy_Premium.md).
+* **3.1.** El acceso a funciones avanzadas (entre otras, generación de planes de varios días, escaneo, widgets) requiere una suscripción Premium activa. Las funciones Premium están sujetas a límites Fair Use.
+* **3.2.** Las condiciones detalladas de la suscripción — incluidos precios, período de prueba de 10 días, renovación automática, cancelación, reembolsos y **límites Fair Use concretos (apartado 8)** — se establecen en los [Términos de Suscripción Nourishy Premium](Reglamento_Suscripcion_Nourishy_Premium.md).
 * **3.3.** Los pagos se gestionan exclusivamente a través de **Apple App Store** o **Google Play** (con integración de RevenueCat). El Proveedor del Servicio no almacena datos de tarjetas de pago.
 * **3.4.** La falta de una suscripción de pago conlleva la restricción del acceso a las funciones Premium. Las suscripciones se renuevan automáticamente salvo cancelación en la configuración de la cuenta de Apple/Google.
 

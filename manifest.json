@@ -7,19 +7,19 @@
       "required": true,
       "locales": {
         "pl": {
-          "version": "2026-07-02",
+          "version": "2026-07-18",
           "file": "PL/Regulamin_Serwisu_Nourishy.md",
           "title": "Regulamin serwisu Nourishy",
           "subtitle": "Zasady korzystania z aplikacji"
         },
         "en": {
-          "version": "2026-07-02",
+          "version": "2026-07-18",
           "file": "EN/Terms_of_Service_Nourishy.md",
           "title": "Nourishy Terms of Service",
           "subtitle": "Rules for using the app"
         },
         "es": {
-          "version": "2026-07-02",
+          "version": "2026-07-18",
           "file": "ES/Terminos_del_Servicio_Nourishy.md",
           "title": "Términos del servicio Nourishy",
           "subtitle": "Normas de uso de la aplicación"
@@ -76,22 +76,22 @@
       "required": true,
       "locales": {
         "pl": {
-          "version": "2026-07-02",
+          "version": "2026-07-18",
           "file": "PL/Regulamin_Subskrypcji_Nourishy_Premium.md",
           "title": "Regulamin subskrypcji Premium",
-          "subtitle": "Płatności, trial i anulowanie"
+          "subtitle": "Płatności, trial, anulowanie i limity Fair Use"
         },
         "en": {
-          "version": "2026-07-02",
+          "version": "2026-07-18",
           "file": "EN/Regulamin_Subskrypcji_Nourishy_Premium.md",
           "title": "Premium subscription terms",
-          "subtitle": "Payments, trial and cancellation"
+          "subtitle": "Payments, trial, cancellation and Fair Use limits"
         },
         "es": {
-          "version": "2026-07-02",
+          "version": "2026-07-18",
           "file": "ES/Reglamento_Suscripcion_Nourishy_Premium.md",
           "title": "Términos de suscripción Premium",
-          "subtitle": "Pagos, prueba y cancelación"
+          "subtitle": "Pagos, prueba, cancelación y límites Fair Use"
         }
       }
     },

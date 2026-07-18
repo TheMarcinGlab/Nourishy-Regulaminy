@@ -1,6 +1,6 @@
 # 💎 Términos de Suscripción Nourishy Premium
 
-**Fecha de última actualización:** 21 de junio de 2026
+**Fecha de última actualización:** 18 de julio de 2026
 
 El presente documento constituye los términos de prestación de servicios por vía electrónica en el ámbito de la variante de suscripción de pago (Premium) en la aplicación móvil Nourishy (identificador de la aplicación: `com.nourishy.app`), en adelante la **«Aplicación»**. Al adquirir una suscripción a través del paywall en la Aplicación, el usuario acepta íntegramente las condiciones siguientes.
 
@@ -8,7 +8,7 @@ El presente documento constituye los términos de prestación de servicios por v
 
 ## 💳 1. Variantes de suscripción, precios y pagos
 
-* **1.1.** El acceso a las funciones Premium completas (incluida la generación de planes de comidas con IA, escaneo ilimitado de platos y códigos de barras, refrigerador virtual con cesta de compras y widgets) se ofrece en dos planes de facturación: mensual y anual.
+* **1.1.** El acceso a las funciones Premium completas (incluida la generación de planes de comidas con IA, el escaneo de platos y códigos de barras, el refrigerador virtual con cesta de compras y los widgets) se ofrece en dos planes de facturación: mensual y anual. El uso de las funciones Premium está sujeto a los límites de uso razonable (Fair Use) establecidos en el **apartado 8** de estos Términos.
 * **1.2.** Las cuotas de suscripción se cobran según la lista de precios mostrada en la pantalla de compra (paywall) dentro de la Aplicación inmediatamente antes de la transacción. Los precios incluyen los impuestos aplicables (incluido el IVA) y se ajustan al mercado local y la moneda según la geolocalización del usuario.
 * **1.3.** > 💸 **Importante (Compras dentro de la app):** Todos los pagos, transacciones, facturación y procesamiento de tarjetas de pago son gestionados exclusiva y directamente por los operadores de tiendas móviles: Apple App Store (para dispositivos iOS) y Google Play (para dispositivos Android) con integración de RevenueCat. El Proveedor del Servicio no recopila, procesa ni almacena los datos de sus tarjetas de pago ni de sus cuentas bancarias.
 * **1.4. Restricción de edad:** La Aplicación está destinada exclusivamente a personas mayores de edad que hayan cumplido **18 años**. El Proveedor del Servicio no recopila, procesa ni almacena conscientemente datos personales, incluidos datos de salud, de personas menores de 18 años. Si el Proveedor del Servicio tiene conocimiento del registro de una cuenta por un menor de edad, dicha cuenta junto con todos los datos asociados será eliminada de forma inmediata e irreversible de los sistemas de producción en tiempo real.
@@ -65,3 +65,38 @@ El presente documento constituye los términos de prestación de servicios por v
 * **7.1.** El proveedor de la Aplicación y la entidad que presta los servicios Premium es Marcin Głąb.
 * **7.2.** Todas las preguntas, notificaciones de servicio, errores de la aplicación o reclamaciones técnicas deben dirigirse exclusivamente a la dirección de correo electrónico dedicada:
   📧 **[support@nourishy.eu](mailto:support@nourishy.eu)**
+
+---
+
+## 📊 8. Límites de uso razonable (Fair Use) — fuente de verdad
+
+* **8.1.** Una suscripción Premium **no implica uso ilimitado**. Para proteger la calidad del servicio, la estabilidad de la infraestructura y prevenir abusos (incluida la automatización y el agotamiento de recursos de IA), el Proveedor del Servicio aplica límites Fair Use. Alcanzar un límite suspende temporalmente la función correspondiente hasta el reinicio de la ventana de facturación (día o semana en la zona horaria Europe/Warsaw).
+* **8.2.** La semana de facturación comienza el **lunes a las 00:00** (Europe/Warsaw). El día de facturación se reinicia a las **00:00** (Europe/Warsaw).
+* **8.3. Límites para una cuenta Premium** (y un Trial activo tratado como Premium):
+
+  | Función | Límite diario | Límite semanal |
+  |---|---|---|
+  | Generación del plan de comidas de 7 días | 3 | — |
+  | Generación de recetas con IA | 15 | 70 |
+  | Escaneo de ticket / recibo | 3 | 10 |
+  | Análisis de macros del plato | 3 | 10 |
+  | Análisis de foto de productos / nevera | 10 | 50 |
+  | Escaneo de código de barras | 150 | — |
+  | Nevera virtual — ítems activos | — | hasta **500** a la vez |
+
+* **8.4.** Funciones Premium sin límite cuantitativo separado de llamadas (sin perjuicio del resto de estos Términos): entre otras, la armonización del plan con el contenido de la nevera y la activación de planes de comidas sucesivos.
+* **8.5. Límites orientativos del plan gratuito (FREE)** — a efectos de transparencia (no constituyen oferta Premium):
+
+  | Función | Límite |
+  |---|---|
+  | Generación del plan de 7 días | 1× por vida de la cuenta (demo) |
+  | Generación de recetas con IA | 3 / semana |
+  | Análisis de macros del plato | 3 / semana |
+  | Análisis de foto de productos | 2 / semana |
+  | Escaneo de código de barras | 15 / semana |
+  | Escaneo de ticket | no disponible |
+  | Nevera virtual — ítems activos | hasta **15** a la vez |
+  | Visibilidad de días del plan | próximos 3 días |
+
+* **8.6.** El Proveedor del Servicio puede modificar los límites Fair Use, informando de cambios materiales en la Aplicación o mediante la actualización de estos Términos. El texto vigente del **apartado 8** es el único listado vinculante de límites; los mensajes de marketing en la Aplicación remiten a este apartado y no deben interpretarse como promesa de uso ilimitado.
+* **8.7.** Con independencia de los apartados 8.3–8.5, el Proveedor del Servicio puede aplicar protección anti-bot (limitación breve de solicitudes) si detecta actividad inusual.

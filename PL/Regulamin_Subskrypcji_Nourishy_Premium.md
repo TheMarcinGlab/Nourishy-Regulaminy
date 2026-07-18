@@ -1,6 +1,6 @@
 # 💎 Regulamin Subskrypcji Nourishy Premium
 
-**Data ostatniej aktualizacji:** 21 czerwca 2026 r.
+**Data ostatniej aktualizacji:** 18 lipca 2026 r.
 
 Niniejszy dokument stanowi regulamin świadczenia usług drogą elektroniczną w zakresie płatnego wariantu subskrypcji (Premium) w aplikacji mobilnej Nourishy (identyfikator aplikacji: `com.nourishy.app`), zwanej dalej **„Aplikacją”**. Dokonując zakupu subskrypcji za pośrednictwem paywalla w Aplikacji, użytkownik w pełni akceptuje poniższe warunki.
 
@@ -8,7 +8,7 @@ Niniejszy dokument stanowi regulamin świadczenia usług drogą elektroniczną w
 
 ## 💳 1. Warianty subskrypcji, Cennik i Płatności
 
-* **1.1.** Dostęp do pełnych funkcji Premium (w tym generowania planów posiłków AI, nielimitowanego skanowania potraw i kodów kreskowych, wirtualnej lodówki z koszykiem zakupowym i widżetów) oferowany jest w dwóch planach rozliczeniowych: miesięcznym oraz rocznym.
+* **1.1.** Dostęp do pełnych funkcji Premium (w tym generowania planów posiłków AI, skanowania potraw i kodów kreskowych, wirtualnej lodówki z koszykiem zakupowym i widżetów) oferowany jest w dwóch planach rozliczeniowych: miesięcznym oraz rocznym. Korzystanie z funkcji Premium podlega limitom uczciwego użytkowania (Fair Use) określonym w **pkt 8** niniejszego Regulaminu.
 * **1.2.** Opłaty za subskrypcję są pobierane zgodnie z cennikiem prezentowanym na ekranie zakupowym (paywallu) wewnątrz Aplikacji bezpośrednio przed dokonaniem transakcji. Ceny zawierają należne podatki (w tym VAT) i są dostosowane do lokalnego rynku i waluty na podstawie geolokalizacji użytkownika.
 * **1.3.** > 💸 **Ważne (In-App Purchases):** Wszystkie płatności, transakcje, fakturowanie oraz obsługa kart płatniczych są przetwarzane i obsługiwane wyłącznie i bezpośrednio przez operatorów sklepów mobilnych: Apple App Store (dla urządzeń iOS) oraz Google Play (dla urządzeń Android) przy integracji z systemem RevenueCat. Usługodawca nie zbiera, nie przetwarza ani nie przechowuje danych Twoich kart płatniczych ani kont bankowych.
 * **1.4. Ograniczenie wiekowe:** Aplikacja przeznaczona jest wyłącznie dla osób pełnoletnich, które ukończyły **18 rok życia**. Usługodawca nie zbiera w sposób świadomy, nie przetwarza ani nie przechowuje danych osobowych, w tym danych o zdrowiu, osób poniżej 18 roku życia. Jeżeli Usługodawca poweźmie informację, że doszło do rejestracji konta przez osobę niepełnoletnią, konto takie wraz ze wszystkimi powiązanymi danymi zostanie natychmiastowo i bezpowrotnie usunięte z systemów produkcyjnych w czasie rzeczywistym.
@@ -66,3 +66,38 @@ Niniejszy dokument stanowi regulamin świadczenia usług drogą elektroniczną w
 * **7.1.** Dostawcą Aplikacji oraz podmiotem świadczącym usługi Premium jest Marcin Głąb.
 * **7.2.** Wszelkie pytania, zgłoszenia serwisowe, błędy aplikacji lub reklamacje techniczne należy kierować wyłącznie na dedykowany adres e-mail:
   📧 **[support@nourishy.eu](mailto:support@nourishy.eu)**
+
+---
+
+## 📊 8. Limity uczciwego użytkowania (Fair Use Policy) — źródło prawdy
+
+* **8.1.** Subskrypcja Premium **nie oznacza braku limitów**. W celu ochrony jakości usługi, stabilności infrastruktury oraz zapobiegania nadużyciom (w tym automatyzacji i drenowaniu zasobów AI) Usługodawca stosuje limity Fair Use. Osiągnięcie limitu skutkuje tymczasowym wstrzymaniem danej funkcji do momentu odnowienia okna rozliczeniowego (dzień lub tydzień w strefie Europe/Warsaw).
+* **8.2.** Tydzień rozliczeniowy zaczyna się w **poniedziałek o 00:00** (Europe/Warsaw). Dzień rozliczeniowy resetuje się o **00:00** (Europe/Warsaw).
+* **8.3. Limity dla konta Premium** (oraz aktywnego okresu próbnego Trial traktowanego jak Premium):
+
+  | Funkcja | Limit dzienny | Limit tygodniowy |
+  |---|---|---|
+  | Generowanie planu posiłków 7-dniowego | 3 | — |
+  | Generowanie przepisów AI | 15 | 70 |
+  | Skanowanie paragonu | 3 | 10 |
+  | Analiza makro dania („Poznaj makro”) | 3 | 10 |
+  | Analiza zdjęcia produktów / lodówki | 10 | 50 |
+  | Skanowanie kodu kreskowego | 150 | — |
+  | Wirtualna lodówka — aktywne pozycje | — | do **500** jednocześnie |
+
+* **8.4.** Funkcje Premium bez osobnego limitu ilościowego wywołań (przy zachowaniu pozostałych zasad Regulaminu): m.in. harmonizacja planu z zawartością lodówki oraz aktywacja kolejnych planów posiłków.
+* **8.5. Orientacyjne limity wersji bezpłatnej (FREE)** — dla przejrzystości (nie stanowią oferty Premium):
+
+  | Funkcja | Limit |
+  |---|---|
+  | Generowanie planu 7-dniowego | 1× na całe życie konta (demo) |
+  | Generowanie przepisów AI | 3 / tydzień |
+  | Analiza makro dania | 3 / tydzień |
+  | Analiza zdjęcia produktów | 2 / tydzień |
+  | Skanowanie kodu kreskowego | 15 / tydzień |
+  | Skanowanie paragonu | niedostępne |
+  | Wirtualna lodówka — aktywne pozycje | do **15** jednocześnie |
+  | Widoczność dni planu | 3 najbliższe dni |
+
+* **8.6.** Usługodawca może zmienić limity Fair Use, informując o istotnej zmianie w Aplikacji lub poprzez aktualizację niniejszego Regulaminu. Aktualna treść **pkt 8** jest jedynym wiążącym zestawieniem limitów; komunikaty marketingowe w Aplikacji odsyłają do tego punktu i nie mogą być interpretowane jako przyrzeczenie braku limitów.
+* **8.7.** Niezależnie od limitów z pkt 8.3–8.5 Usługodawca może zastosować ochronę antybotową (krótkotrwałe ograniczenie liczby żądań w krótkim oknie czasowym) w razie wykrycia nietypowej aktywności.

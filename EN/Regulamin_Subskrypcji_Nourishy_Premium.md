@@ -1,6 +1,6 @@
 # 💎 Nourishy Premium Subscription Terms
 
-**Last updated:** June 21, 2026
+**Last updated:** July 18, 2026
 
 This document constitutes the terms for the provision of electronic services in respect of the paid Premium subscription variant in the Nourishy mobile application (application identifier: `com.nourishy.app`), hereinafter referred to as the **"Application"**. By purchasing a subscription through the paywall in the Application, the user fully accepts the conditions below.
 
@@ -8,7 +8,7 @@ This document constitutes the terms for the provision of electronic services in 
 
 ## 💳 1. Subscription variants, pricing, and payments
 
-* **1.1.** Access to full Premium features (including AI meal plan generation, unlimited scanning of dishes and barcodes, virtual refrigerator with shopping cart, and widgets) is offered in two billing plans: monthly and annual.
+* **1.1.** Access to full Premium features (including AI meal plan generation, scanning of dishes and barcodes, virtual refrigerator with shopping cart, and widgets) is offered in two billing plans: monthly and annual. Use of Premium features is subject to the Fair Use limits set out in **Section 8** of these Terms.
 * **1.2.** Subscription fees are charged according to the price list displayed on the purchase screen (paywall) inside the Application immediately before the transaction. Prices include applicable taxes (including VAT) and are adjusted to the local market and currency based on the user's geolocation.
 * **1.3.** > 💸 **Important (In-App Purchases):** All payments, transactions, billing, and payment card processing are handled exclusively and directly by mobile store operators: Apple App Store (for iOS devices) and Google Play (for Android devices) with RevenueCat integration. The Service Provider does not collect, process, or store your payment card or bank account data.
 * **1.4. Age restriction:** The Application is intended exclusively for adults who have reached the age of **18**. The Service Provider does not knowingly collect, process, or store personal data, including health data, of individuals under 18 years of age. If the Service Provider becomes aware that an account has been registered by a minor, such account along with all associated data will be immediately and permanently deleted from production systems in real time.
@@ -65,3 +65,38 @@ This document constitutes the terms for the provision of electronic services in 
 * **7.1.** The provider of the Application and the entity providing Premium services is Marcin Głąb.
 * **7.2.** All questions, service reports, application errors, or technical complaints should be sent exclusively to the dedicated email address:
   📧 **[support@nourishy.eu](mailto:support@nourishy.eu)**
+
+---
+
+## 📊 8. Fair Use limits — source of truth
+
+* **8.1.** A Premium subscription **does not mean unlimited use**. To protect service quality, infrastructure stability, and prevent abuse (including automation and draining of AI resources), the Service Provider applies Fair Use limits. Reaching a limit temporarily suspends the relevant feature until the billing window resets (day or week in the Europe/Warsaw time zone).
+* **8.2.** The billing week starts on **Monday at 00:00** (Europe/Warsaw). The billing day resets at **00:00** (Europe/Warsaw).
+* **8.3. Limits for a Premium account** (and an active Trial treated as Premium):
+
+  | Feature | Daily limit | Weekly limit |
+  |---|---|---|
+  | 7-day meal plan generation | 3 | — |
+  | AI recipe generation | 15 | 70 |
+  | Receipt scanning | 3 | 10 |
+  | Dish macro analysis | 3 | 10 |
+  | Product / fridge photo analysis | 10 | 50 |
+  | Barcode scanning | 150 | — |
+  | Virtual fridge — active items | — | up to **500** at once |
+
+* **8.4.** Premium features without a separate quantitative call limit (subject to the rest of these Terms): including meal-plan harmonization with fridge contents and activation of subsequent meal plans.
+* **8.5. Indicative FREE-tier limits** — for transparency (not a Premium offer):
+
+  | Feature | Limit |
+  |---|---|
+  | 7-day meal plan generation | 1× per account lifetime (demo) |
+  | AI recipe generation | 3 / week |
+  | Dish macro analysis | 3 / week |
+  | Product photo analysis | 2 / week |
+  | Barcode scanning | 15 / week |
+  | Receipt scanning | unavailable |
+  | Virtual fridge — active items | up to **15** at once |
+  | Plan day visibility | next 3 days |
+
+* **8.6.** The Service Provider may change Fair Use limits, informing users of material changes in the Application or by updating these Terms. The current **Section 8** is the sole binding list of limits; in-app marketing copy refers to this section and must not be read as a promise of unlimited use.
+* **8.7.** Independently of Sections 8.3–8.5, the Service Provider may apply anti-bot protection (short-term request throttling) if unusual activity is detected.

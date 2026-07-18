@@ -1,7 +1,7 @@
 # 📜 Nourishy Service and Application Terms
 
 **Owner and Service Provider:** Marcin Głąb  
-**Last updated:** July 5, 2026
+**Last updated:** July 18, 2026
 
 These Terms govern the use of the Nourishy mobile application (application identifier: `com.nourishy.app`), hereinafter referred to as the **"Application"**. By using the Application, the user fully accepts these Terms.
 
@@ -29,8 +29,8 @@ These Terms govern the use of the Nourishy mobile application (application ident
 
 ## 3. Premium subscription
 
-* **3.1.** Access to advanced features (including multi-day plan generation, unlimited scanning, widgets) requires an active Premium subscription.
-* **3.2.** Detailed subscription terms — including pricing, the 10-day trial period, automatic renewal, cancellation, and refunds — are set out in the [Nourishy Premium Subscription Terms](Regulamin_Subskrypcji_Nourishy_Premium.md).
+* **3.1.** Access to advanced features (including multi-day plan generation, scanning, widgets) requires an active Premium subscription. Premium features are subject to Fair Use limits.
+* **3.2.** Detailed subscription terms — including pricing, the 10-day trial period, automatic renewal, cancellation, refunds, and **specific Fair Use limits (Section 8)** — are set out in the [Nourishy Premium Subscription Terms](Regulamin_Subskrypcji_Nourishy_Premium.md).
 * **3.3.** Payments are handled exclusively through the **Apple App Store** or **Google Play** (with RevenueCat integration). The Service Provider does not store payment card data.
 * **3.4.** Failure to maintain a paid subscription results in restricted access to Premium features. Subscriptions renew automatically unless cancelled in Apple/Google account settings.
 
