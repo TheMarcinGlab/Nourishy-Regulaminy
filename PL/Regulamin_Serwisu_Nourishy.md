@@ -1,66 +1,75 @@
-# 📜 Regulamin Serwisu i Aplikacji Nourishy
+# 📜 Regulamin Serwisu i Aplikacji Nourishy (Terms of Use / EULA)
 
-**Właściciel i Usługodawca:** Marcin Głąb  
-**Data ostatniej aktualizacji:** 18 lipca 2026 r.
+**Usługodawca:** Marcin Głąb (działalność nierejestrowana)  
+**Kontakt:** 📧 support@nourishy.eu  
+**Data ostatniej aktualizacji:** 4 sierpnia 2026 r.
 
-Niniejszy regulamin określa zasady korzystania z aplikacji mobilnej Nourishy (identyfikator aplikacji: `com.nourishy.app`), zwanej dalej **„Aplikacją”**. Korzystając z Aplikacji, użytkownik akceptuje niniejszy Regulamin w całości.
-
----
-
-## 1. Postanowienia ogólne
-
-* **1.1.** Usługodawcą i właścicielem Aplikacji jest **Marcin Głąb**.
-* **1.2.** Aplikacja oferuje narzędzia wspomagające planowanie żywienia, oparte na sztucznej inteligencji (AI), w tym skanowanie posiłków i kodów kreskowych, generowanie przepisów, wielodniowych planów posiłków, wirtualną lodówkę oraz listy zakupów.
-* **1.3.** Treści generowane przez Aplikację mają charakter wyłącznie orientacyjny, lifestylowy i edukacyjny. Aplikacja **nie stanowi porady medycznej, lekarskiej ani dietetycznej** — szczegóły w [Zastrzeżeniu Zdrowotnym](Zastrzezenie_Zdrowotne_Nourishy.md).
-* **1.4. Ograniczenie wiekowe:** Użytkownikiem może być wyłącznie osoba pełnoletnia, która ukończyła **18 rok życia**. Usługodawca nie zbiera w sposób świadomy danych osób poniżej 18 roku życia. Jeżeli Usługodawca poweźmie informację o rejestracji konta przez osobę niepełnoletnią, konto wraz ze wszystkimi powiązanymi danymi zostanie natychmiastowo i bezpowrotnie usunięte.
-* **1.5.** W sprawach dotyczących przetwarzania danych osobowych obowiązuje [Polityka Prywatności](Polityka_Prywatnosci_Nourishy.md). W sprawach subskrypcji Premium obowiązuje [Regulamin Subskrypcji Nourishy Premium](Regulamin_Subskrypcji_Nourishy_Premium.md).
+Niniejszy Regulamin (zwany również **„EULA”**) określa zasady korzystania z aplikacji mobilnej Nourishy (identyfikator: `com.nourishy.app`), zwanej dalej **„Aplikacją”**. Pobranie, instalacja lub utworzenie konta w Aplikacji oznacza pełną akceptację niniejszego Regulaminu.
 
 ---
 
-## 2. Rejestracja, konto i funkcje
+## 1. Postanowienia ogólne i status Usługodawcy
 
-* **2.1. Logowanie i onboarding:** Proces rejestracji, logowania oraz zarządzania sesją jest obsługiwany przez zewnętrznego dostawcę **Auth0**. Dane profilowe i preferencje służą do personalizacji treści, ale nie gwarantują dopasowania medycznego.
-* **2.2. Skanowanie (zdjęcie / kod kreskowy):** Wyniki analizy obrazu i odczytu kodów są szacunkowe. Bazy danych produktów mogą zawierać błędy wprowadzone przez osoby trzecie. Użytkownik ma obowiązek samodzielnie weryfikować skład i wartości odżywcze przed spożyciem.
-* **2.3. Generowanie planów i przepisów AI:** Plany i przepisy są generowane dynamicznie w sposób probabilistyczny. Usługodawca nie gwarantuje kompletności planów pod względem mikroelementów ani zgodności z indywidualnymi potrzebami zdrowotnymi użytkownika.
-* **2.4. Wirtualna lodówka i koszyk:** Narzędzia te służą wyłącznie do organizacji logistycznej zakupów i przechowywania informacji wprowadzonych przez użytkownika. Nie monitorują świeżości ani zdatności produktów do spożycia.
-* **2.5. Obowiązek weryfikacji:** Każde wygenerowanie przepisu, planu posiłków lub odczyt kodu kreskowego nie stanowi zgody na spożycie produktu. Użytkownik zobowiązuje się do samodzielnej weryfikacji składu pod kątem alergii, nietolerancji i stanu zdrowia.
-
----
-
-## 3. Subskrypcja Premium
-
-* **3.1.** Dostęp do zaawansowanych funkcji (m.in. generowanie wielodniowych planów, skanowanie, widżety) wymaga aktywnej subskrypcji Premium. Funkcje Premium podlegają limitom Fair Use.
-* **3.2.** Szczegółowe warunki subskrypcji — w tym cennik, 10-dniowy okres próbny, automatyczne odnowienie, anulowanie, zwroty oraz **konkretne limity Fair Use (pkt 8)** — określa [Regulamin Subskrypcji Nourishy Premium](Regulamin_Subskrypcji_Nourishy_Premium.md).
-* **3.3.** Płatności są obsługiwane wyłącznie przez **Apple App Store** lub **Google Play** (z integracją RevenueCat). Usługodawca nie przechowuje danych kart płatniczych.
-* **3.4.** Brak opłaconej subskrypcji skutkuje ograniczeniem dostępu do funkcji Premium. Subskrypcje odnawiają się automatycznie, chyba że zostaną anulowane w ustawieniach konta Apple/Google.
+* **1.1. Usługodawca:** Właścicielem i operatorem Aplikacji jest osoba fizyczna prowadząca działalność nierejestrowaną (w rozumieniu polskiej ustawy Prawo przedsiębiorców): Marcin Głąb.
+* **1.2. Zakres Aplikacji:** Aplikacja udostępnia narzędzia wspomagające organizację żywienia, w tym algorytmiczny dobór przepisów i planów posiłków, funkcję wirtualnej lodówki, listy zakupów oraz moduly analizy obrazu (zdjęć posiłków i produktów) z wykorzystaniem sztucznej inteligencji (AI).
+* **1.3. Ograniczenie wiekowe:** Aplikacja przeznaczona jest wyłącznie dla osób pełnoletnich (**18+**). Usługodawca nie zbiera świadomie danych osób niepełnoletnich. Rejestracja przez osobę niepełnoletnią skutkuje natychmiastowym usunięciem konta.
+* **1.4. Dokumenty powiązane:** Zasady przetwarzania danych osobowych określa [Polityka Prywatności](Polityka_Prywatnosci_Nourishy.md).
 
 ---
 
-## 4. Treści użytkownika i własność intelektualna
+## 2. Zastrzeżenie Medyczne
 
-* **4.1.** Wszystkie algorytmy, kod Aplikacji oraz materiały edukacyjne są własnością **Marcina Głąba**.
-* **4.2. Licencja na zdjęcia:** Użytkownik przesyłając zdjęcia posiłków, potraw i produktów spożywczych udziela Marcinowi Głąbowi niewyłącznej, nieodpłatnej licencji na ich przechowywanie, przetwarzanie oraz wykorzystanie w celu **ulepszania i trenowania modeli sztucznej inteligencji** wykorzystywanych w Aplikacji i powiązanych usługach Usługodawcy.
-* **4.3.** Użytkownik oświadcza, że posiada prawo do przesyłania przekazywanych treści i że ich udostępnienie nie narusza praw osób trzecich.
-
----
-
-## 5. Odpowiedzialność i ograniczenia
-
-* **5.1.** Usługodawca nie ponosi odpowiedzialności za decyzje żywieniowe użytkownika, w tym za skutki spożycia produktów zaproponowanych przez AI, jeżeli użytkownik zaniechał własnej weryfikacji składu.
-* **5.2.** Algorytmy AI mogą generować błędy (w tym halucynacje), błędnie interpretować zdjęcia lub pomijać zadeklarowane wykluczenia dietetyczne.
-* **5.3.** W maksymalnym zakresie dozwolonym przez prawo, odpowiedzialność Usługodawcy wobec użytkownika korzystającego z wersji bezpłatnej jest ograniczona do wysokości opłat faktycznie uiszczonych za subskrypcję Premium w okresie ostatnich 12 miesięcy (jeśli dotyczy).
+* **2.1. Brak charakteru medycznego:** Aplikacja **nie jest wyrobem medycznym** w rozumieniu Rozporządzenia MDR (UE) 2017/745 i nie świadczy usług medycznych, lekarskich, terapeutycznych ani indywidualnych porad dietetyki klinicznej.
+* **2.2. Charakter informacyjny:** Wszelkie materiały, statystyki makroskładników, przepisy oraz sugerowane plany posiłków mają charakter wyłącznie edukacyjny, rozrywkowy i wspierający styl życia.
+* **2.3. Obowiązek konsultacji:** Osoby cierpiące na choroby przewlekłe (w tym cukrzycę, celiakię, insulinooporność), kobiety w ciąży, osoby z zaburzeniami odżywiania oraz osoby o ciężkich alergiach pokarmowych mają bezwzględny obowiązek skonsultować dietę z lekarzem lub dietetykiem klinicznym.
+* **2.4. Obowiązek weryfikacji składu:** Odczyty kodów kreskowych, analiza zdjęć przez AI oraz generowane przepisy mogą zawierać błędy lub bazy danych osób trzecich. Użytkownik ma bezwzględny obowiązek samodzielnie zweryfikować skład i obecność alergenów na etykiecie fizycznego produktu przed jego spożyciem.
 
 ---
 
-## 6. Usunięcie konta i kontakt
+## 3. Funkcjonalności i analiza obrazu (AI)
 
-* **6.1.** Użytkownik może w każdej chwili usunąć konto w Aplikacji (Profil → Ustawienia → Usuń konto). Usunięcie konta jest nieodwracalne i powoduje trwałe usunięcie danych z serwerów Aplikacji.
-* **6.2.** Usunięcie konta **nie anuluje automatycznie** aktywnej subskrypcji Premium w Apple/Google — użytkownik musi anulować subskrypcję samodzielnie w ustawieniach urządzenia.
-* **6.3.** Wszelkie pytania, zgłoszenia i reklamacje techniczne należy kierować na adres: 📧 **[support@nourishy.eu](mailto:support@nourishy.eu)**. Więcej informacji w [Centrum Pomocy](Centrum_Pomocy_i_Wsparcia_Technicznego_Nourishy.md).
+* **3.1. Auth0:** Rejestracja i autoryzacja odbywają się za pośrednictwem zewnętrznej platformy Auth0. Użytkownik odpowiada za zachowanie poufności swoich danych logowania.
+* **3.2. Skanowanie i analiza zdjęć przez AI:** Zdjęcia potraw i produktów są przesyłane do zewnętrznych modeli AI wyłącznie w celu ich analizy w czasie rzeczywistym. Analiza ma charakter szacunkowy i probabilistyczny.
+* **3.3. Wirtualna lodówka i koszyk:** Narzędzia te służą wyłącznie do cyfrowej organizacji listy produktów i nie monitorują świeżości ani zdatności produktów do spożycia.
 
 ---
 
-## 7. Postanowienia końcowe
+## 4. Subskrypcje Nourishy Premium
 
-* **7.1.** Marcin Głąb zastrzega sobie prawo do zmiany niniejszego Regulaminu oraz funkcji Aplikacji. O istotnych zmianach użytkownicy zostaną poinformowani w Aplikacji lub drogą e-mail.
-* **7.2.** W sprawach nieuregulowanych niniejszym Regulaminem zastosowanie mają przepisy prawa właściwego dla miejsca zamieszkania Usługodawcy, w szczególności przepisy polskie o świadczeniu usług drogą elektroniczną oraz Kodeks cywilny.
+* **4.1. Wersja Premium:** Dostęp do zaawansowanych funkcji (np. analiza zdjęć, rozbudowane plany) wymaga zakupu odnawialnej subskrypcji Premium. Funkcje Premium podlegają limitom Fair Use — konkretne limity określa **pkt 8** [Regulaminu Subskrypcji Nourishy Premium](Regulamin_Subskrypcji_Nourishy_Premium.md).
+* **4.2. Płatności in-app:** Wszystkie płatności i transakcje są obsługiwane w całości przez platformę **Apple App Store** lub **Google Play** (z wykorzystaniem infrastruktury technicznej RevenueCat). Usługodawca nie przechowuje ani nie przetwarza danych kart płatniczych.
+* **4.3. Automatyczne odnawianie:** Subskrypcja odnawia się automatycznie na kolejny okres rozliczeniowy (miesięczny lub roczny), chyba że zostanie anulowana co najmniej 24 godziny przed końcem bieżącego okresu subskrypcji.
+* **4.4. Instrukcja anulowania subskrypcji (iOS):** Użytkownik może w dowolnym momencie anulować subskrypcję w ustawieniach konta Apple ID:  
+  *Ustawienia iOS -> [Twoje Imię i Nazwisko / Apple ID] -> Subskrypcje -> Nourishy -> Anuluj subskrypcję*.
+* **4.5. Zwroty środków:** Wszelkie procedury zwrotów opłat za subskrypcję są realizowane wyłącznie przez sklep Apple App Store lub Google Play zgodnie z ich wewnętrznymi zasadami handlowymi.
+
+---
+
+## 5. Własność intelektualna i licencja na zdjęcia
+
+* **5.1. Prawa autorskie:** Wszystkie prawa do Aplikacji, kodu źródłowego, interfejsu, znaków towarowych oraz treści autorskich przysługują Marcinowi Głąbowi.
+* **5.2. Licencja na zdjęcia użytkownika:** Użytkownik przesyłając zdjęcie potrawy lub produktu udziela Usługodawcy wyłącznej, nieodpłatnej licencji na przetwarzanie i przesłanie danego zdjęcia do API modeli AI wyłącznie w celu realizacji danego zapytania (analizy w czasie rzeczywistym).
+* **5.3. Brak trenowania AI:** Usługodawca oświadcza, że zdjęcia przesyłane przez Użytkownika nie są wykorzystywane do trenowania publicznych modeli sztucznej inteligencji.
+
+---
+
+## 6. Odpowiedzialność i gwarancje
+
+* **6.1. Wyłączenie rękojmi:** Aplikacja jest dostarczana w stanie takim, w jakim się znajduje (ang. *"as is"*), bez gwarancji bezbłędnego lub ciągłego działania.
+* **6.2. Ograniczenie odpowiedzialności:** Usługodawca nie ponosi odpowiedzialności za niepożądane reakcje alergiczne, zatrucia lub uszczerbek na zdrowiu wynikający ze spożycia produktów przeanalizowanych przez Aplikację. Użytkownik podejmuje wszelkie decyzje żywieniowe na własną odpowiedzialność.
+* **6.3. Limit odpowiedzialności:** W maksymalnym zakresie dopuszczalnym przez polskie prawo, całkowita odpowiedzialność Usługodawcy wobec Użytkownika jest ograniczona do kwoty faktycznie wpłaconej przez Użytkownika na rzecz subskrypcji Premium w ciągu ostatnich 12 miesięcy.
+
+---
+
+## 7. Usunięcie konta, Reklamacje i Prawa Konsumenta
+
+* **7.1. Usunięcie Konta:** Użytkownik może w dowolnym momencie usunąć konto w Aplikacji (`Profil -> Ustawienia -> Usuń konto`). Usunięcie konta powoduje bezpowrotne skasowanie danych z bazy produkcyjnej.
+* **7.2. Usunięcie konta a subskrypcja:** Usunięcie konta **nie powoduje** automatycznego anulowania subskrypcji w Apple/Google Store — należy ją anulować ręcznie zgodnie z pkt 4.4.
+* **7.3. Procedura reklamacyjna:** Wszelkie uwagi, błędy techniczne oraz reklamacje dotyczące działania Aplikacji należy zgłaszać e-mailowo na adres: `support@nourishy.eu`. Usługodawca rozpatruje reklamacje w terminie **14 dni** od daty ich otrzymania.
+
+---
+
+## 8. Postanowienia końcowe
+
+* **8.1. Zmiany Regulaminu:** Usługodawca zastrzega sobie prawo do zmiany Regulaminu.
+* **8.2. Prawo właściwe:** W kwestiach nieuregulowanych niniejszym Regulaminem zastosowanie mają przepisy prawa polskiego, w szczególności Kodeksu cywilnego oraz ustawy o świadczeniu usług drogą elektroniczną.

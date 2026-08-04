@@ -1,69 +1,74 @@
 # 💎 Nourishy Premium Subscription Terms
 
-**Last updated:** July 18, 2026
+**Service Provider:** Marcin Głąb (unregistered business activity)  
+**Service address:** [Your City and Postal Code, e.g. 00-001 Warsaw]  
+**Contact:** 📧 support@nourishy.eu  
+**Last updated:** 4 August 2026
 
-This document constitutes the terms for the provision of electronic services in respect of the paid Premium subscription variant in the Nourishy mobile application (application identifier: `com.nourishy.app`), hereinafter referred to as the **"Application"**. By purchasing a subscription through the paywall in the Application, the user fully accepts the conditions below.
-
----
-
-## 💳 1. Subscription variants, pricing, and payments
-
-* **1.1.** Access to full Premium features (including AI meal plan generation, scanning of dishes and barcodes, virtual refrigerator with shopping cart, and widgets) is offered in two billing plans: monthly and annual. Use of Premium features is subject to the Fair Use limits set out in **Section 8** of these Terms.
-* **1.2.** Subscription fees are charged according to the price list displayed on the purchase screen (paywall) inside the Application immediately before the transaction. Prices include applicable taxes (including VAT) and are adjusted to the local market and currency based on the user's geolocation.
-* **1.3.** > 💸 **Important (In-App Purchases):** All payments, transactions, billing, and payment card processing are handled exclusively and directly by mobile store operators: Apple App Store (for iOS devices) and Google Play (for Android devices) with RevenueCat integration. The Service Provider does not collect, process, or store your payment card or bank account data.
-* **1.4. Age restriction:** The Application is intended exclusively for adults who have reached the age of **18**. The Service Provider does not knowingly collect, process, or store personal data, including health data, of individuals under 18 years of age. If the Service Provider becomes aware that an account has been registered by a minor, such account along with all associated data will be immediately and permanently deleted from production systems in real time.
+This document constitutes the terms for the provision of services by electronic means in respect of the paid subscription variant (Premium) in the Nourishy mobile application (application identifier: `com.nourishy.app`), hereinafter referred to as the **“Application”**. By purchasing a subscription via the paywall in the Application, the User fully accepts the following conditions.
 
 ---
 
-## ⏱️ 2. Free trial period (10-day trial)
+## 💳 1. Subscription Plans, Pricing and Payments
 
-* **2.1.** New Application users may be offered a one-time, free trial period lasting exactly 10 days.
-* **2.2.** Activating the 10-day trial requires approval of the purchase on the Apple/Google system screen and linking a valid payment method. No funds are charged from the user's account during the trial period.
-* **2.3.** The subscription may be cancelled at no cost at any time during the trial period, provided this is done **at least 24 hours before the end of the 10-day trial period**.
-
----
-
-## 🔄 3. Automatic subscription renewal (EU and US compliance)
-
-* **3.1.** The Premium subscription renews fully automatically for the same billing period (the next month or year) unless the user cancels it in accordance with Section 4 of these Terms.
-* **3.2.** The fee for the next billing period (or the full subscription fee after the end of the 10-day trial period) is charged automatically from the linked payment card within 24 hours before the end of the current billing cycle.
+* **1.1. Scope of Premium features:** Access to full Premium features (including image and product analysis by artificial intelligence, personalised meal plans, virtual fridge with shopping cart and widgets) is offered in two billing plans: monthly and annual. Use of Premium features is subject to Fair Use limits set out in **Section 8** of these Terms.
+* **1.2. Pricing:** Subscription fees are charged in accordance with the price list presented on the purchase screen (paywall) within the Application immediately before the transaction. Prices include applicable taxes (including VAT) and are adapted to the local market and currency based on the User’s geolocation.
+* **1.3.**
+  > 💸 **Important (In-App Purchases):** All payments, transactions, invoicing and payment card handling are processed and handled exclusively and directly by the mobile store operators: **Apple App Store** (for iOS devices) and **Google Play** (for Android devices) with integration of the RevenueCat system. The Service Provider does not collect, process or store the User’s payment card data or bank account details.
+* **1.4. Age restriction:** The Premium subscription is intended exclusively for adults (**18+**). If the Service Provider becomes aware that a subscription has been purchased by a minor, such account together with all associated data will be immediately and permanently deleted from production systems.
 
 ---
 
-## ❌ 4. Subscription cancellation procedure and conditions
+## ⏱️ 2. Free Trial Period (7-day Trial)
 
-* **4.1.** The user has the right to opt out of automatic Premium subscription renewal at any time, without giving a reason. To avoid being charged for the next cycle, cancellation must be completed no later than **24 hours before the end of the current period**.
-* **4.2.** > ⚠️ **Technical and legal limitations:** The Service Provider does not have the technical or legal authority to cancel a subscription on behalf of the user or modify their billing. You must cancel independently in your system account settings:
-  * 🍏 **iOS devices (Apple):** Open *iPhone Settings* → Tap your name (*Apple ID*) → Select *Subscriptions* → Find *Nourishy* → Tap *Cancel Subscription*.
-  * 🤖 **Android devices (Google):** Open the *Google Play Store* app → Tap the profile icon in the top right corner → Select *Payments & subscriptions* → Go to *Subscriptions* → Find *Nourishy* → Tap *Cancel subscription*.
-
----
-
-## 💰 5. Effects of cancellation and important waiver of right of withdrawal (EU)
-
-* **5.1.** After successful cancellation, your account will not be charged again. You retain full access to all Premium features until the last day of the current paid billing period. After that time, the account automatically reverts to the free version.
-* **5.2.** The Service Provider does not refund fees for unused subscription time during an ongoing billing cycle.
-* **5.3.** 🇪🇺 **MANDATORY EU LEGAL NOTICE (Loss of 14-day right of withdrawal):**
-  Pursuant to Article 38(13) of the Polish Consumer Rights Act and the EU Digital Content Directive, the right to withdraw from a distance contract within 14 days **DOES NOT APPLY** to the consumer in the case of the supply of digital content not supplied on a tangible medium, if performance has begun with the consumer's express consent before the withdrawal period expires and after the entrepreneur has informed the consumer of the loss of the right of withdrawal.
-  **By purchasing a Premium subscription and obtaining immediate access to AI plan and recipe generation, you consent to immediate delivery of digital content and acknowledge that at the time of purchase you lose your statutory right to a 14-day withdrawal and refund.**
-* **5.4.** Any incidental refund requests (transaction complaints) are reviewed and processed exclusively and directly by Apple App Store or Google Play support, in accordance with those platforms' commercial terms and on their terms.
-* **5.5. GDPR consent withdrawal and contract performance:** The user acknowledges that Premium Features (in particular generation of personalized AI meal plans) are technically impossible without processing health-related data (including allergy information and anthropometric parameters). If the User exercises their right to withdraw consent to the processing of special category data (Art. 9(2)(a) GDPR) or requests restriction of processing during an active Premium subscription, the Service Provider — for reasons on the User's side — will be released from the obligation to provide those features that require access to such data. This situation does not constitute improper performance of the contract by the Service Provider and does not entitle the User to demand a full or partial refund of Premium subscription fees.
+* **2.1.** New Users of the Application may be offered a one-time free trial lasting exactly 7 days.
+* **2.2.** Activation of the trial requires confirmation of the purchase on the Apple/Google system screen and linking of a valid payment method. During the trial, no funds are charged from the User’s account.
+* **2.3.** The subscription may be cancelled without any cost at any time during the trial, provided this is done **at least 24 hours before the end of the 7-day trial period**.
 
 ---
 
-## 🤖 6. Division of duties and liability for AI modules
+## 🔄 3. Automatic Subscription Renewal (Compliance with EU Rules and Apple Guidelines)
 
-* **6.1.** The Service Provider delivers advanced tools based on artificial intelligence (AI) algorithms. Meal plans, recipe suggestions, shopping lists, virtual refrigerator, and macronutrient analyses from photos and barcodes are generated automatically and probabilistically. This content is for informational, lifestyle, and educational purposes only.
-* **6.2.** The Service Provider provides a technological infrastructure based on artificial intelligence (AI) models, whose sole purpose is lifestyle and educational support for the User. Given the probabilistic nature of language modeling and image analysis, AI algorithms may generate errors, including so-called hallucinations, misinterpret photos of dishes or barcodes, or omit declared dietary exclusions.
-* **6.3. Contractual verification obligation (safety condition):** Each generation of a recipe, meal plan, or barcode reading by the Application does not constitute final approval to consume a given product. The user undertakes to **absolutely, independently, and separately verify the physical composition of a dish or product before consumption** with regard to their own allergies, food intolerances, and health status. This obligation is paramount and is an integral part of the procedure for using the Application.
-* **6.4. Exclusion of liability for failure to comply with obligations:** To the maximum extent permitted by mandatory applicable law (including Art. 473 § 1 of the Polish Civil Code), the Service Provider shall not be liable for any damage to health, including allergic reactions, poisoning, or injury to health, resulting from consumption of a product proposed by AI, if the User failed to conduct their own independent verification of the composition referred to in § 6.3. Such failure is deemed gross negligence on the part of the User, constituting the sole and direct cause of the damage incurred, which releases the Service Provider from liability for damages. In situations where the law prevents complete exclusion of liability, the Service Provider's total liability for damages is limited to the amount equivalent to the fees paid by the user for the Premium subscription in the 12 months preceding the occurrence of the damage.
+* **3.1.** The Premium subscription renews fully automatically for the same billing period (another month or another year), unless the User cancels it in accordance with section 4 of these Terms.
+* **3.2.** The fee for the next billing period (or the fee for the full subscription after the trial ends) is charged automatically from the linked payment card within 24 hours before the end of the current billing cycle.
 
 ---
 
-## ✉️ 7. Service Provider and official contact
+## ❌ 4. Subscription Cancellation Procedure and Conditions
+
+* **4.1.** The User has the right to opt out of automatic renewal of the Premium subscription at any time, without giving a reason. To avoid being charged for the next cycle, cancellation must be made no later than **24 hours before the end of the current period**.
+* **4.2.**
+  > ⚠️ **Technical and legal limitations:** The Service Provider has neither the technical nor the legal authority to cancel a subscription on the User’s behalf or to modify their billing. Cancellation must be completed independently in the system account settings:
+  >
+  > * 🍏 **iOS devices (Apple):** Open *iPhone Settings* → Tap your name (*Apple ID*) → Select *Subscriptions* → Find *Nourishy* → Tap *Cancel Subscription*.
+  > * 🤖 **Android devices (Google):** Open the *Google Play Store* app → Tap your profile icon in the top right → Select *Payments & subscriptions* → Enter *Subscriptions* → Find *Nourishy* → Tap *Cancel subscription*.
+
+---
+
+## 💰 5. Effects of Cancellation and Important Waiver of the Right of Withdrawal (EU)
+
+* **5.1.** After correct cancellation of the subscription, the User’s account will not be charged again. The User retains full access to all Premium features until the last day of the current, already paid billing period. Thereafter, the account automatically switches to the free version.
+* **5.2.** The Service Provider does not refund fees for the unused portion of the subscription during a billing cycle.
+* **5.3. 🇪🇺 MANDATORY EU LEGAL NOTICE (Loss of the 14-day right of withdrawal):**  
+  Pursuant to Art. 38 point 13 of the Polish Consumer Rights Act and the EU Digital Content Directive, the right to withdraw from a distance contract within 14 days **DOES NOT APPLY** to the consumer in the case of supply of digital content not supplied on a tangible medium, if performance has begun with the consumer’s express prior consent and after the consumer has been informed by the trader of the loss of the right of withdrawal.  
+  **By purchasing a Premium subscription and obtaining immediate access to the Application’s advanced features, the User consents to the immediate supply of digital content and acknowledges that at the moment of purchase they lose the statutory right to a 14-day withdrawal from the contract and to a refund.**
+* **5.4.** All refund requests (transactional complaints) are reviewed and processed exclusively and directly by Apple App Store or Google Play support, in accordance with the commercial terms of those platforms.
+* **5.5. Withdrawal of GDPR consents and contract performance:** The User acknowledges that Premium features are technically impossible to operate without processing health data (including information on allergies and anthropometric parameters). If the User withdraws consent to the processing of special category data (Art. 9(2)(a) GDPR) or requests account deletion during an active Premium subscription, the Service Provider shall be released from the obligation to provide services for reasons attributable to the User. This situation does not constitute improper performance of the contract by the Service Provider and does not entitle the User to demand a refund of subscription fees.
+
+---
+
+## 🤖 6. Liability and Data Verification (AI Modules)
+
+* **6.1.** Analysis of photos of meals, products and receipts performed by artificial intelligence (AI) modules is probabilistic, approximate, lifestyle-oriented and educational in nature. AI algorithms may generate errors, misinterpret images or omit declared dietary exclusions.
+* **6.2. Contractual Duty of Verification (Safety Condition):** Reading data from a photo or barcode does not constitute final consent to consume a given product. The User undertakes to **absolutely, independently and separately verify the physical composition of the meal or product before consumption** with regard to their own allergies, food intolerances and health condition.
+* **6.3. Exclusion of Liability:** The Service Provider is not liable for any injury to health (including allergic reactions or food poisoning) resulting from consumption of a product proposed on the basis of the Application’s analysis, if the User failed to carry out their own verification of the composition. In situations where the law prevents a complete exclusion of liability, the Service Provider’s aggregate compensatory liability is limited to the amount of fees paid by the User for the Premium subscription in the last 12 months.
+
+---
+
+## ✉️ 7. Service Provider and Contact
 
 * **7.1.** The provider of the Application and the entity providing Premium services is Marcin Głąb.
-* **7.2.** All questions, service reports, application errors, or technical complaints should be sent exclusively to the dedicated email address:
+* **7.2.** All questions, service reports and technical complaints should be directed to the dedicated e-mail address:  
   📧 **[support@nourishy.eu](mailto:support@nourishy.eu)**
 
 ---

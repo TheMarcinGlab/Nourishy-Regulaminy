@@ -1,15 +1,14 @@
 # 🛡️ Polityka Prywatności Aplikacji Mobilnej Nourishy
 
-**Data ostatniej aktualizacji:** 21 czerwca 2026 r.
+**Data ostatniej aktualizacji:** 4 sierpnia 2026 r.
 
 ---
 
 ## 1. Postanowienia ogólne i Administrator Danych
 
 * **1.1.** Niniejsza Polityka Prywatności określa zasady, cele, podstawy prawne oraz czas przetwarzania danych osobowych użytkowników aplikacji mobilnej Nourishy (identyfikator aplikacji: `com.nourishy.app`), zwanej dalej **„Aplikacją”**.
-* **1.2.** Administratorem danych osobowych użytkowników Aplikacji jest osoba fizyczna prowadząca działalność gospodarczą i udostępniająca Aplikację: **Marcin Głąb**, zwany dalej **„Administratorem”**.
-* **1.3.** We wszystkich sprawach związanych z przetwarzaniem danych osobowych, ochroną prywatności oraz realizacją praw przysługujących na mocy RODO (Ogólnego Rozporządzenia o Ochronie Danych), użytkownik może skontaktować się z Administratorem za pośrednictwem dedykowanego i jedynego oficjalnego adresu e-mail:
-  📧 **[support@nourishy.eu](mailto:support@nourishy.eu)**
+* **1.2.** Administratorem danych osobowych jest osoba fizyczna nieprowadząca zarejestrowanej działalności gospodarczej (działalność nierejestrowana w rozumieniu polskiej ustawy Prawo przedsiębiorców): Marcin Głąb, zwany dalej „Administratorem”.
+* **1.3.** Kontakt z Administratorem jest możliwy pod adresem e-mail: support@nourishy.eu
 * **1.4.** Administrator deklaruje, że przetwarza dane osobowe użytkowników zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. (RODO), polską ustawą o ochronie danych osobowych oraz ustawą o świadczeniu usług drogą elektroniczną.
 * **1.5. Ograniczenie wiekowe:** Aplikacja przeznaczona jest wyłącznie dla osób pełnoletnich, które ukończyły **18 rok życia**. Administrator nie zbiera w sposób świadomy, nie przetwarza ani nie przechowuje danych osobowych, w tym danych o zdrowiu, osób poniżej 18 roku życia. Jeżeli Administrator poweźmie informację, że doszło do rejestracji konta przez osobę niepełnoletnią, konto takie wraz ze wszystkimi powiązanymi danymi zostanie natychmiastowo i bezpowrotnie usunięte z systemów produkcyjnych w czasie rzeczywistym.
 
@@ -22,7 +21,7 @@ W celu umożliwienia korzystania ze wszystkich zaawansowanych funkcji Aplikacji,
 * **2.1. Dane rejestracyjne i autentykacyjne:** adres e-mail, identyfikator użytkownika generowany przez system Auth0.
 * **2.2. Dane profilowe oraz informacje o zdrowiu (Dane szczególnej kategorii – Art. 9 RODO):** waga, wzrost, wiek, płeć, poziom aktywności fizycznej, preferencje smakowe, wybrane kuchnie świata, cele żywieniowe (np. redukcja masy, budowanie mięśni) oraz przede wszystkim **alergie pokarmowe, nietolerancje i wykluczenia dietetyczne**.
   > 🧬 **Uwaga prawna:** Dane te stanowią dane dotyczące zdrowia w rozumieniu art. 9 ust. 1 RODO. Ich przetwarzanie odbywa się wyłącznie na podstawie wyraźnej, oddzielnej i świadomej zgody użytkownika zebranej podczas procesu onboardingowego.
-* **2.3. Treści użytkownika (zdjęcia i pliki):** zdjęcia posiłków, potraw oraz produktów spożywczych przesyłane przez użytkownika za pomocą aparatu fotograficznego lub galerii urządzenia mobilnego w celu analizy ich składu przez sztuczną inteligencję (AI). Przesłane zdjęcia mogą być wykorzystywane przez Administratora w celu **ulepszania i trenowania modeli AI** wykorzystywanych w Aplikacji — na podstawie licencji udzielonej przez użytkownika przy przesyłaniu treści (szczegóły w [Regulaminie Serwisu](Regulamin_Serwisu_Nourishy.md), § 4.2).
+* **2.3. Treści użytkownika:** zdjęcia posiłków przesłane w celu analizy przez AI są przetwarzane wyłącznie w czasie rzeczywistym na potrzeby realizacji zapytania. Administrator nie wykorzystuje prywatnych zdjęć użytkowników do trenowania publicznych modeli AI. (szczegóły w [Regulaminie Serwisu](Regulamin_Serwisu_Nourishy.md), § 4.2).
 * **2.4. Dane o użytkowaniu i zawartości aplikacji:** informacje wprowadzane w ramach funkcji wirtualnej lodówki (posiadane produkty), listy zakupów, historia wygenerowanych planów posiłków, preferencje oceniane metodą "swipe" oraz statystyki spożycia makroskładników.
 * **2.5. Dane techniczne i lokalizacyjne:** adres IP, model urządzenia mobilnego, wersja systemu operacyjnego (iOS/Android), unikalny identyfikator urządzenia (IDFA/GAID), język systemu, unikalny token powiadomień push oraz geolokalizacja (w celu synchronizacji rynku, waluty i kraju użytkownika).
 * **2.6. Dane transakcyjne i zakupowe:** status subskrypcji Premium (np. wersja próbna, subskrypcja miesięczna, roczna), data zakupu, data wygaśnięcia oraz identyfikator transakcji wygenerowany przez system RevenueCat i sklep mobilny.
@@ -35,7 +34,7 @@ W celu umożliwienia korzystania ze wszystkich zaawansowanych funkcji Aplikacji,
 Dane osobowe użytkowników są przetwarzane przez Administratora w następujących celach, na podstawie wskazanych przepisów RODO:
 
 * **3.1. Świadczenie usług drogą elektroniczną (Art. 6 ust. 1 lit. b RODO):** Przetwarzanie jest niezbędne do wykonania umowy o świadczenie usług (akceptacja Regulaminu). Obejmuje to rejestrację konta, utrzymanie sesji (Auth0), działanie funkcji wirtualnej lodówki, koszyka zakupowego, skanera kodów kreskowych oraz synchronizację językową i rynkową na podstawie geolokalizacji.
-* **3.2. Przetwarzanie danych o zdrowiu (Art. 9 ust. 2 lit. a RODO):** Przetwarzanie danych profilowych dotyczących zdrowia, parametrów fizycznych, alergii i celów dietetycznych w celu generowania spersonalizowanych przepisów i wielodniowych planów posiłków przez sztuczną inteligencję (AI) odbywa się **wyłącznie na podstawie wyraźnej, dobrowolnej i oddzielnej zgody użytkownika**, wyrażonej poprzez aktywne zaznaczenie odpowiedniego pola wyboru (checkbox) podczas onboardingu. Zgoda może być wycofana w każdym momencie w ustawieniach profilu. *Wycofanie zgody na przetwarzanie tych danych skutkuje brakiem możliwości świadczenia usług zasilanych przez AI, co reguluje § 5.5 Regulaminu.*
+* **3.2. Przetwarzanie danych o zdrowiu (Art. 9 ust. 2 lit. a RODO):** Przetwarzanie danych profilowych dotyczących zdrowia, parametrów fizycznych, alergii i celów dietetycznych odbywa się na podstawie wyraźnej zgody Użytkownika, wyrażanej podczas rejestracji/onboardingu. Podanie tych danych i wyrażenie zgody jest dobrowolne, lecz **stanowi warunek konieczny (niezbędny) do świadczenia usług Aplikacji**. Odmowa wyrażenia zgody uniemożliwia utworzenie konta i korzystanie z Aplikacji. Wycofanie zgody w dowolnym momencie jest równe z brakiem możliwości dalszego świadczenia usług przez Administratora i wiąże się z koniecznością usunięcia Konta Użytkownika.
 * **3.3. Wysyłka powiadomień push i lokalnych (Art. 6 ust. 1 lit. a RODO):** Przetwarzanie tokenów urządzeń w celu wysyłania powiadomień przypominających o posiłkach, zakupach lub powiadomień systemowych (widżety ekranu głównego) na podstawie zgody użytkownika wyrażonej w ustawieniach systemu operacyjnego urządzenia.
 * **3.4. Prawnie uzasadniony interes Administratora (Art. 6 ust. 1 lit. f RODO):** Przetwarzanie danych technicznych i analitycznych w celu zapewnienia bezpieczeństwa teleinformatycznego Aplikacji, wykrywania błędów i awarii (_crash reporting_), optymalizacji działania systemu, prowadzenia anonimowych statystyk, a także obrony przed ewentualnymi roszczeniami prawnymi (w szczególności związanych z wyłączeniem odpowiedzialności medycznej) lub ich dochodzenia.
 
@@ -50,8 +49,8 @@ Dla zapewnienia prawidłowego i stabilnego funkcjonowania Aplikacji, Administrat
 * **4.3. Google LLC (Firebase / Firebase Cloud Messaging):** Narzędzia analityczne, crash reporting, optymalizacja UX oraz infrastruktura służąca do wysyłania powiadomień push i obsługi widżetów ekranu głównego.
 * **4.4. RevenueCat, Inc.:** Podmiot dostarczający infrastrukturę techniczną do zarządzania subskrypcjami Premium, walidacji paragonów oraz weryfikacji statusu płatności z Apple App Store i Google Play.
 * **4.5. Apple Inc. (App Store) & Google LLC (Google Play):** Operatorzy platform dystrybucyjnych, którzy przetwarzają dane transakcyjne i płatnicze użytkowników w celu realizacji zakupu subskrypcji Premium.
-* **4.6. Zewnętrzni dostawcy modeli AI w chmurze (np. OpenAI, Anthropic):** W celu wygenerowania spersonalizowanych przepisów, analizy obrazu dań ze zdjęć oraz generowania wielodniowych planów posiłków, parametry użytkownika (takie jak wiek, płeć, waga, alergie, cele oraz przesyłane zdjęcia dań) są przesyłane do zewnętrznych modeli AI. 
-  > 🤖 **Bezpieczeństwo AI:** Dane przesyłane do zewnętrznych dostawców AI w celu realizacji pojedynczego zapytania są **spseudonimizowane** (nie zawierają adresu e-mail, imienia ani nazwiska użytkownika). Zdjęcia przesłane przez użytkownika mogą być ponadto wykorzystywane przez Administratora (Marcin Głąb) do ulepszania i trenowania modeli AI w ramach Aplikacji, zgodnie z udzieloną licencją. Zewnętrzni dostawcy przetwarzają dane wyłącznie w zakresie niezbędnym do świadczenia usługi na podstawie umów powierzenia (DPA).
+* **4.6. Zewnętrzni dostawcy modeli AI w chmurze (np. OpenAI, Anthropic):** W celu analizy obrazu (zdjęć potraw, produktów spożywczych oraz paragonów) przesyłanych przez Użytkownika, spseudonimizowane dane obrazowe są przesyłane do zewnętrznych dostawców modeli AI.
+  > 🤖 **Bezpieczeństwo AI:** Dane przesyłane do zewnętrznych dostawców AI w celu analizy zdjęcia są **spseudonimizowane** (nie zawierają adresu e-mail, imienia ani nazwiska Użytkownika). Zewnętrzni dostawcy przetwarzają przesyłane obrazy wyłącznie w czasie rzeczywistym na potrzeby realizacji zapytania i nie wykorzystują ich do trenowania własnych modeli publicznych.
 
 ---
 
@@ -75,6 +74,7 @@ Dla zapewnienia prawidłowego i stabilnego funkcjonowania Aplikacji, Administrat
 ## 🔑 7. Prawa użytkownika na gruncie RODO
 
 Każdemu użytkownikowi Aplikacji przysługują pełne prawa wynikające z przepisów RODO, realizowane poprzez kontakt pod adresem **support@nourishy.eu**:
+
 * **7.1. Prawo dostępu do danych oraz otrzymania ich kopii (Art. 15 RODO).**
 * **7.2. Prawo do sprostowania i poprawiania danych (Art. 16 RODO).**
 * **7.3. Prawo do usunięcia danych / „prawo do bycia zapomnianym” (Art. 17 RODO).**
@@ -89,7 +89,8 @@ Każdemu użytkownikowi Aplikacji przysługują pełne prawa wynikające z przep
 ## ⚙️ 8. Procedura usunięcia konta a Subskrypcje
 
 * **8.1.** Uruchomienie procedury usunięcia konta w aplikacji powoduje automatyczne, natychmiastowe i bezpowrotne usunięcie adresu e-mail, danych profilowych (w tym alergii i parametrów zdrowotnych), historii planów posiłków oraz zdjęć z serwerów i baz danych powiązanych z Aplikacją.
-* **8.2.** > ⚠️ **Kluczowa informacja konsumencka:** Samodzielne usunięcie konta w Aplikacji **nie powoduje automatycznego anulowania aktywnej subskrypcji Premium** w Apple App Store lub Google Play. Ze względów technicznych i prawnych zależnych od operatorów sklepów mobilnych, użytkownik ma bezwzględny obowiązek anulować subskrypcję samodzielnie w ustawieniach swojego urządzenia przed usunięciem konta. W przeciwnym wypadku opłaty będą nadal naliczane przez Apple/Google.
+* **8.2.**
+  > ⚠️ **Kluczowa informacja konsumencka:** Samodzielne usunięcie konta w Aplikacji **nie powoduje automatycznego anulowania aktywnej subskrypcji Premium** w Apple App Store lub Google Play. Ze względów technicznych i prawnych zależnych od operatorów sklepów mobilnych, użytkownik ma bezwzględny obowiązek anulować subskrypcję samodzielnie w ustawieniach swojego urządzenia przed usunięciem konta. W przeciwnym wypadku opłaty będą nadal naliczane przez Apple/Google. Aby zapobiec automatycznemu odnowieniu subskrypcji na urządzeniach iOS, należy przejść do: Ustawienia systemu iOS -> [Twoje Imię i Nazwisko / Apple ID] -> Subskrypcje -> Nourishy -> Anuluj subskrypcję, co najmniej 24 godziny przed końcem bieżącego okresu rozliczeniowego.
 
 ---
 
