@@ -76,20 +76,20 @@
       "required": true,
       "locales": {
         "pl": {
-          "version": "2026-08-04",
+          "version": "2026-10-13",
           "file": "PL/Regulamin_Subskrypcji_Nourishy_Premium.md",
           "title": "Regulamin subskrypcji Premium",
           "subtitle": "Płatności, trial, anulowanie i limity Fair Use"
         },
         "en": {
-          "version": "2026-08-04",
-          "file": "EN/Regulamin_Subskrypcji_Nourishy_Premium.md",
+          "version": "2026-10-13",
+          "file": "EN/Premium_Terms_and_Conditions.md",
           "title": "Premium subscription terms",
           "subtitle": "Payments, trial, cancellation and Fair Use limits"
         },
         "es": {
-          "version": "2026-08-04",
-          "file": "ES/Reglamento_Suscripcion_Nourishy_Premium.md",
+          "version": "2026-10-13",
+          "file": "ES/Terminos_y_Condiciones_Premium.md",
           "title": "Términos de suscripción Premium",
           "subtitle": "Pagos, prueba, cancelación y límites Fair Use"
         }
@@ -113,6 +113,29 @@
         "es": {
           "version": "2026-08-04",
           "file": "ES/Centro_de_Ayuda_Nourishy.md",
+          "title": "Centro de ayuda",
+          "subtitle": "FAQ, contacto y soporte técnico"
+        }
+      }
+    },
+    "sourceSceintificBasic": {
+      "required": true,
+      "locales": {
+        "pl": {
+          "version": "2026-10-13",
+          "file": "PL/Źródła_i_podstawy_naukowe.md",
+          "title": "Centrum pomocy",
+          "subtitle": "FAQ, kontakt i wsparcie techniczne"
+        },
+        "en": {
+          "version": "2026-10-13",
+          "file": "EN/Sources_and_Scientific_Basis.md",
+          "title": "Help center",
+          "subtitle": "FAQ, contact and technical support"
+        },
+        "es": {
+          "version": "2026-10-13",
+          "file": "ES/Fuentes_y_Bases_Científicas.md",
           "title": "Centro de ayuda",
           "subtitle": "FAQ, contacto y soporte técnico"
         }
