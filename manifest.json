@@ -118,26 +118,26 @@
         }
       }
     },
-    "sourceSceintificBasic": {
+    "sourceScientificBasic": {
       "required": true,
       "locales": {
         "pl": {
           "version": "2026-10-13",
           "file": "PL/Źródła_i_podstawy_naukowe.md",
-          "title": "Centrum pomocy",
-          "subtitle": "FAQ, kontakt i wsparcie techniczne"
+          "title": "Źródła i podstawy naukowe",
+          "subtitle": "Bibliografia i metodyka"
         },
         "en": {
           "version": "2026-10-13",
           "file": "EN/Sources_and_Scientific_Basis.md",
-          "title": "Help center",
-          "subtitle": "FAQ, contact and technical support"
+          "title": "Sources & Scientific Basis",
+          "subtitle": "References and methodology"
         },
         "es": {
           "version": "2026-10-13",
           "file": "ES/Fuentes_y_Bases_Científicas.md",
-          "title": "Centro de ayuda",
-          "subtitle": "FAQ, contacto y soporte técnico"
+          "title": "Fuentes y bases científicas",
+          "subtitle": "Bibliografía y metodología"
         }
       }
     }
