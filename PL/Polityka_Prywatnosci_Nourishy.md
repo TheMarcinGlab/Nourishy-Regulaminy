@@ -1,13 +1,13 @@
 # 🛡️ Polityka Prywatności Aplikacji Mobilnej Nourishy
 
-**Data ostatniej aktualizacji:** 4 sierpnia 2026 r.
+**Data ostatniej aktualizacji:** 23 października 2026 r.
 
 ---
 
 ## 1. Postanowienia ogólne i Administrator Danych
 
-* **1.1.** Niniejsza Polityka Prywatności określa zasady, cele, podstawy prawne oraz czas przetwarzania danych osobowych użytkowników aplikacji mobilnej Nourishy (identyfikator aplikacji: `com.nourishy.app`), zwanej dalej **„Aplikacją”**.
-* **1.2.** Administratorem danych osobowych jest osoba fizyczna nieprowadząca zarejestrowanej działalności gospodarczej (działalność nierejestrowana w rozumieniu polskiej ustawy Prawo przedsiębiorców): Marcin Głąb, zwany dalej „Administratorem”.
+* **1.1.** Niniejsza Polityka Prywatności określa zasady, cele, podstawy prawne oraz czas przetwarzania danych osobowych użytkowników aplikacji mobilnej Nourishy (identyfikator aplikacji: `com.nourishy.app`), zwanej dalej **„Aplikacją"**.
+* **1.2.** Administratorem danych osobowych jest osoba fizyczna nieprowadząca zarejestrowanej działalności gospodarczej (działalność nierejestrowana w rozumieniu polskiej ustawy Prawo przedsiębiorców): Marcin Głąb, zwany dalej „Administratorem".
 * **1.3.** Kontakt z Administratorem jest możliwy pod adresem e-mail: support@nourishy.eu
 * **1.4.** Administrator deklaruje, że przetwarza dane osobowe użytkowników zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. (RODO), polską ustawą o ochronie danych osobowych oraz ustawą o świadczeniu usług drogą elektroniczną.
 * **1.5. Ograniczenie wiekowe:** Aplikacja przeznaczona jest wyłącznie dla osób pełnoletnich, które ukończyły **18 rok życia**. Administrator nie zbiera w sposób świadomy, nie przetwarza ani nie przechowuje danych osobowych, w tym danych o zdrowiu, osób poniżej 18 roku życia. Jeżeli Administrator poweźmie informację, że doszło do rejestracji konta przez osobę niepełnoletnią, konto takie wraz ze wszystkimi powiązanymi danymi zostanie natychmiastowo i bezpowrotnie usunięte z systemów produkcyjnych w czasie rzeczywistym.
@@ -21,9 +21,9 @@ W celu umożliwienia korzystania ze wszystkich zaawansowanych funkcji Aplikacji,
 * **2.1. Dane rejestracyjne i autentykacyjne:** adres e-mail, identyfikator użytkownika generowany przez system Auth0.
 * **2.2. Dane profilowe oraz informacje o zdrowiu (Dane szczególnej kategorii – Art. 9 RODO):** waga, wzrost, wiek, płeć, poziom aktywności fizycznej, preferencje smakowe, wybrane kuchnie świata, cele żywieniowe (np. redukcja masy, budowanie mięśni) oraz przede wszystkim **alergie pokarmowe, nietolerancje i wykluczenia dietetyczne**.
   > 🧬 **Uwaga prawna:** Dane te stanowią dane dotyczące zdrowia w rozumieniu art. 9 ust. 1 RODO. Ich przetwarzanie odbywa się wyłącznie na podstawie wyraźnej, oddzielnej i świadomej zgody użytkownika zebranej podczas procesu onboardingowego.
-* **2.3. Treści użytkownika:** zdjęcia posiłków przesłane w celu analizy przez AI są przetwarzane wyłącznie w czasie rzeczywistym na potrzeby realizacji zapytania. Administrator nie wykorzystuje prywatnych zdjęć użytkowników do trenowania publicznych modeli AI. (szczegóły w [Regulaminie Serwisu](Regulamin_Serwisu_Nourishy.md), § 4.2).
+* **2.3. Treści użytkownika:** zdjęcia posiłków przesłane w celu analizy przez AI są przetwarzane wyłącznie w czasie rzeczywistym na potrzeby realizacji zapytania. Administrator nie wykorzystuje prywatnych zdjęć użytkowników do trenowania publicznych modeli AI. Szczegóły określa Regulamin Serwisu Nourishy, § 4.2.
 * **2.4. Dane o użytkowaniu i zawartości aplikacji:** informacje wprowadzane w ramach funkcji wirtualnej lodówki (posiadane produkty), listy zakupów, historia wygenerowanych planów posiłków, preferencje oceniane metodą "swipe" oraz statystyki spożycia makroskładników.
-* **2.5. Dane techniczne i lokalizacyjne:** adres IP, model urządzenia mobilnego, wersja systemu operacyjnego (iOS/Android), unikalny identyfikator urządzenia (IDFA/GAID), język systemu, unikalny token powiadomień push oraz geolokalizacja (w celu synchronizacji rynku, waluty i kraju użytkownika).
+* **2.5. Dane techniczne i lokalizacyjne:** adres IP, model urządzenia mobilnego, wersja systemu operacyjnego (iOS/Android), anonimowy identyfikator instalacji (IDFV), język systemu, unikalny token powiadomień push oraz geolokalizacja (w celu synchronizacji rynku, waluty i kraju użytkownika).
 * **2.6. Dane transakcyjne i zakupowe:** status subskrypcji Premium (np. wersja próbna, subskrypcja miesięczna, roczna), data zakupu, data wygaśnięcia oraz identyfikator transakcji wygenerowany przez system RevenueCat i sklep mobilny.
   > 💳 **Ważne:** Administrator nie zbiera, nie przetwarza ani nie widzi danych kart płatniczych ani szczegółowych danych bankowych użytkownika – płatności są obsługiwane w całości przez Apple App Store lub Google Play.
 
@@ -65,7 +65,7 @@ Dla zapewnienia prawidłowego i stabilnego funkcjonowania Aplikacji, Administrat
 ## ⏱️ 6. Okres przechowywania danych osobowych
 
 * **6.1.** Dane osobowe powiązane z Kontem Użytkownika są przetwarzane przez cały okres aktywności konta, tj. przez czas trwania umowy o świadczenie usług drogą elektroniczną.
-* **6.2.** W wypadku podjęcia przez użytkownika decyzji o usunięciu konta (poprzez opcję w sekcji Profil -> Ustawienia -> Usuń konto), jego dane osobowe są trwale i bezpowrotnie usuwane w czasie rzeczywistym z produkcyjnej bazy danych.
+* **6.2.** W wypadku podjęcia przez użytkownika decyzji o usunięciu konta (poprzez opcję w sekcji Profil → Ustawienia → Usuń konto), jego dane osobowe są trwale i bezpowrotnie usuwane w czasie rzeczywistym z produkcyjnej bazy danych.
 * **6.3.** Po usunięciu konta, Administrator zastrzega sobie prawo do przechowywania wyłącznie ściśle ograniczonego i zanonimizowanego zakresu danych (np. identyfikator transakcji RevenueCat, data logowania) wyłącznie w celu obrony przed ewentualnymi roszczeniami prawnymi lub podatkowymi, przez okres przedawnienia roszczeń wynikający z przepisów polskiego Kodeksu cywilnego (maksymalnie 6 lat).
 * **6.4.** Dane przetwarzane na podstawie zgody (np. dane o zdrowiu i alergiach, powiadomienia push) są usuwane natychmiast po wycofaniu tej zgody przez użytkownika lub usunięciu konta.
 
@@ -77,7 +77,7 @@ Każdemu użytkownikowi Aplikacji przysługują pełne prawa wynikające z przep
 
 * **7.1. Prawo dostępu do danych oraz otrzymania ich kopii (Art. 15 RODO).**
 * **7.2. Prawo do sprostowania i poprawiania danych (Art. 16 RODO).**
-* **7.3. Prawo do usunięcia danych / „prawo do bycia zapomnianym” (Art. 17 RODO).**
+* **7.3. Prawo do usunięcia danych / „prawo do bycia zapomnianym" (Art. 17 RODO).**
 * **7.4. Prawo do ograniczenia przetwarzania danych (Art. 18 RODO).**
 * **7.5. Prawo do przenoszenia danych w formacie strukturyzowanym (Art. 20 RODO).**
 * **7.6. Prawo do sprzeciwu wobec przetwarzania opartego na prawnie uzasadnionym interesie (Art. 21 RODO).**
@@ -90,7 +90,7 @@ Każdemu użytkownikowi Aplikacji przysługują pełne prawa wynikające z przep
 
 * **8.1.** Uruchomienie procedury usunięcia konta w aplikacji powoduje automatyczne, natychmiastowe i bezpowrotne usunięcie adresu e-mail, danych profilowych (w tym alergii i parametrów zdrowotnych), historii planów posiłków oraz zdjęć z serwerów i baz danych powiązanych z Aplikacją.
 * **8.2.**
-  > ⚠️ **Kluczowa informacja konsumencka:** Samodzielne usunięcie konta w Aplikacji **nie powoduje automatycznego anulowania aktywnej subskrypcji Premium** w Apple App Store lub Google Play. Ze względów technicznych i prawnych zależnych od operatorów sklepów mobilnych, użytkownik ma bezwzględny obowiązek anulować subskrypcję samodzielnie w ustawieniach swojego urządzenia przed usunięciem konta. W przeciwnym wypadku opłaty będą nadal naliczane przez Apple/Google. Aby zapobiec automatycznemu odnowieniu subskrypcji na urządzeniach iOS, należy przejść do: Ustawienia systemu iOS -> [Twoje Imię i Nazwisko / Apple ID] -> Subskrypcje -> Nourishy -> Anuluj subskrypcję, co najmniej 24 godziny przed końcem bieżącego okresu rozliczeniowego.
+  > ⚠️ **Kluczowa informacja konsumencka:** Samodzielne usunięcie konta w Aplikacji **nie powoduje automatycznego anulowania aktywnej subskrypcji Premium** w Apple App Store lub Google Play. Ze względów technicznych i prawnych zależnych od operatorów sklepów mobilnych, użytkownik ma bezwzględny obowiązek anulować subskrypcję samodzielnie w ustawieniach swojego urządzenia przed usunięciem konta. W przeciwnym wypadku opłaty będą nadal naliczane przez Apple/Google. Aby zapobiec automatycznemu odnowieniu subskrypcji na urządzeniach iOS, należy przejść do: Ustawienia systemu iOS → [Twoje Imię i Nazwisko / Konto Apple] → Subskrypcje → Nourishy → Anuluj subskrypcję, co najmniej 24 godziny przed końcem bieżącego okresu rozliczeniowego.
 
 ---
 

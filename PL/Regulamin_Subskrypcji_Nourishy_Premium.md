@@ -2,9 +2,9 @@
 
 **Usługodawca:** Marcin Głąb (działalność nierejestrowana)  
 **Kontakt:** 📧 support@nourishy.eu  
-**Data ostatniej aktualizacji:** 10 października 2026 r.
+**Data ostatniej aktualizacji:** 23 października 2026 r.
 
-Niniejszy dokument stanowi regulamin świadczenia usług drogą elektroniczną w zakresie płatnego wariantu subskrypcji (Premium) w aplikacji mobilnej Nourishy (identyfikator aplikacji: `com.nourishy.app`), zwanej dalej **„Aplikacją”**. Dokonując zakupu subskrypcji za pośrednictwem paywalla w Aplikacji, Użytkownik w pełni akceptuje poniższe warunki.
+Niniejszy dokument stanowi regulamin świadczenia usług drogą elektroniczną w zakresie płatnego wariantu subskrypcji (Premium) w aplikacji mobilnej Nourishy (identyfikator aplikacji: `com.nourishy.app`), zwanej dalej **„Aplikacją"**. Dokonując zakupu subskrypcji za pośrednictwem paywalla w Aplikacji, Użytkownik w pełni akceptuje poniższe warunki.
 
 ---
 
@@ -39,7 +39,7 @@ Niniejszy dokument stanowi regulamin świadczenia usług drogą elektroniczną w
 * **4.2.**
   > ⚠️ **Ograniczenia techniczno-prawne:** Usługodawca nie posiada technicznych ani prawnych uprawnień do anulowania subskrypcji w imieniu Użytkownika ani modyfikacji jego rozliczeń. Anulowania należy dokonać samodzielnie w ustawieniach konta systemowego:
   >
-  > * 🍏 **Urządzenia iOS (Apple):** Otwórz *Ustawienia iPhone'a* → Stuknij w swoje imię i nazwisko (*Apple ID*) → Wybierz *Subskrypcje* → Znajdź *Nourishy* → Kliknij *Anuluj subskrypcję*.
+  > * 🍏 **Urządzenia iOS (Apple):** Otwórz *Ustawienia iPhone'a* → Stuknij w [Twoje Imię i Nazwisko / Konto Apple] → Wybierz *Subskrypcje* → Znajdź *Nourishy* → Kliknij *Anuluj subskrypcję*.
   > * 🤖 **Urządzenia Android (Google):** Otwórz aplikację *Sklep Google Play* → Stuknij ikonę profilu w prawym górnym rogu → Wybierz *Płatności i subskrypcje* → Wejdź w *Subskrypcje* → Znajdź *Nourishy* → Kliknij *Anuluj subskrypcję*.
 
 ---
@@ -68,7 +68,7 @@ Niniejszy dokument stanowi regulamin świadczenia usług drogą elektroniczną w
 
 * **7.1.** Dostawcą Aplikacji oraz podmiotem świadczącym usługi Premium jest Marcin Głąb.
 * **7.2.** Wszelkie pytania, zgłoszenia serwisowe oraz reklamacje techniczne należy kierować na dedykowany adres e-mail:  
-  📧 **[support@nourishy.eu](mailto:support@nourishy.eu)**
+  📧 **support@nourishy.eu**
 
 ---
 
@@ -78,66 +78,52 @@ Niniejszy dokument stanowi regulamin świadczenia usług drogą elektroniczną w
 * **8.2.** Tydzień rozliczeniowy zaczyna się w **poniedziałek o 00:00** (Europe/Warsaw). Dzień rozliczeniowy resetuje się o **00:00** (Europe/Warsaw).
 * **8.3. Limity dla konta Premium** (oraz aktywnego okresu próbnego Trial traktowanego jak Premium):
 
-  | Funkcja | Limit dzienny | Limit tygodniowy |
-  |---|---|---|
-  | Generowanie planu posiłków 7-dniowego | 3 | — |
-  | Generowanie przepisów AI | 15 | 70 |
-  | Skanowanie paragonu | 3 | 10 |
-  | Analiza makro dania („Poznaj makro”) | 3 | 10 |
-  | Analiza zdjęcia produktów / lodówki | 10 | 50 |
-  | Skanowanie kodu kreskowego | 150 | — |
-  | Wirtualna lodówka — aktywne pozycje | — | do **500** jednocześnie |
+  - **Generowanie planu posiłków 7-dniowego** — limit dzienny: 3 / limit tygodniowy: —
+  - **Generowanie przepisów AI** — limit dzienny: 15 / limit tygodniowy: 70
+  - **Skanowanie paragonu** — limit dzienny: 3 / limit tygodniowy: 10
+  - **Analiza makro dania („Poznaj makro")** — limit dzienny: 3 / limit tygodniowy: 10
+  - **Analiza zdjęcia produktów / lodówki** — limit dzienny: 10 / limit tygodniowy: 50
+  - **Skanowanie kodu kreskowego** — limit dzienny: 150 / limit tygodniowy: —
+  - **Wirtualna lodówka — aktywne pozycje** — do **500** jednocześnie
 
 * **8.4.** Funkcje Premium bez osobnego limitu ilościowego wywołań (przy zachowaniu pozostałych zasad Regulaminu): m.in. harmonizacja planu z zawartością lodówki oraz aktywacja kolejnych planów posiłków.
 * **8.5. Orientacyjne limity wersji bezpłatnej (FREE)** — dla przejrzystości (nie stanowią oferty Premium):
 
-  | Funkcja | Limit |
-  |---|---|
-  | Generowanie planu 7-dniowego | 1× na całe życie konta (demo) |
-  | Generowanie przepisów AI | 3 / tydzień |
-  | Analiza makro dania | 3 / tydzień |
-  | Analiza zdjęcia produktów | 2 / tydzień |
-  | Skanowanie kodu kreskowego | 15 / tydzień |
-  | Skanowanie paragonu | niedostępne |
-  | Wirtualna lodówka — aktywne pozycje | do **15** jednocześnie |
-  | Widoczność dni planu | 3 najbliższe dni |
+  - **Generowanie planu 7-dniowego** — 1× na całe życie konta (demo)
+  - **Generowanie przepisów AI** — 3 / tydzień
+  - **Analiza makro dania** — 3 / tydzień
+  - **Analiza zdjęcia produktów** — 2 / tydzień
+  - **Skanowanie kodu kreskowego** — 15 / tydzień
+  - **Skanowanie paragonu** — niedostępne
+  - **Wirtualna lodówka — aktywne pozycje** — do **15** jednocześnie
+  - **Widoczność dni planu** — 3 najbliższe dni
 
 * **8.6.** Usługodawca może zmienić limity Fair Use, informując o istotnej zmianie w Aplikacji lub poprzez aktualizację niniejszego Regulaminu. Aktualna treść **pkt 8** jest jedynym wiążącym zestawieniem limitów; komunikaty marketingowe w Aplikacji odsyłają do tego punktu i nie mogą być interpretowane jako przyrzeczenie braku limitów.
 * **8.7.** Niezależnie od limitów z pkt 8.3–8.5 Usługodawca może zastosować ochronę antybotową (krótkotrwałe ograniczenie liczby żądań w krótkim oknie czasowym) w razie wykrycia nietypowej aktywności.
 
 ---
 
-## 🎁 9. Kody promocyjne twórców (Creator Codes)
+## 🎁 9. Kody promocyjne i kody ofertowe (Offer Codes)
 
-* **9.1. Definicja i pochodzenie kodów:** Nourishy współpracuje z twórcami internetowymi (influencerami, dalej: „Twórca”), którzy w ramach kampanii marketingowych udostępniają swoim odbiorcom unikalne kody promocyjne (dalej: „Kod”). Kod ma charakter jednorazowy, przypisany do konkretnej kampanii i Twórcy, i jest dystrybuowany wyłącznie poza Aplikacją (np. w mediach społecznościowych Twórcy).
+- **9.1. Definicja i pochodzenie kodów:** Usługodawca może udostępniać kody promocyjne i kody ofertowe (np. w ramach kampanii partnerskich, marketingowych lub współpracy z twórcami internetowymi). Kody są dystrybuowane poza Aplikacją i podlegają zasadom określonym w regulaminach platform Apple App Store oraz Google Play.
 
-* **9.2. Rodzaje benefitów z Kodu:** Kod może uprawniać do jednego z następujących świadczeń:
-  * **(a) Rabat na pierwszy okres rozliczeniowy** — obniżona cena pierwszego miesiąca lub roku subskrypcji, po którym subskrypcja odnawia się automatycznie po cenie standardowej;
-  * **(b) Wydłużony okres próbny** — Trial dłuższy niż standardowe 7 dni, na warunkach wskazanych w opisie Kodu;
-  * **(c) Bezpłatny dostęp Premium (GRANT)** — świadczenie nieodpłatne, przyznawane bezpośrednio przez Nourishy bez pośrednictwa App Store ani Google Play, na czas określony w warunkach Kodu.
+- **9.2. Rodzaje korzyści:** W zależności od kampanii kod może uprawniać do:
+  - **(a) Rabatu cenowego** na pierwszy lub kolejne okresy rozliczeniowe subskrypcji;
+  - **(b) Bezpłatnego lub wydłużonego okresu próbnego (Trial)** na warunkach określonych w danej ofercie;
+  - **(c) Określonego czasu dostępu promocyjnego** przyznawanego w ramach oficjalnych programów promocyjnych Apple App Store lub Google Play.
 
-* **9.3. Sposób realizacji Kodu:**
-  * **9.3.1.** W przypadku Kodów typu (a) i (b) realizacja następuje **poprzez sklep Apple App Store lub Google Play**. Użytkownik po wpisaniu Kodu w Aplikacji zostaje przekierowany do właściwego sklepu, gdzie dokonuje zakupu na warunkach promocyjnych. Transakcja podlega regulaminom Apple lub Google, w tym ich zasadom zwrotów.
-  * **9.3.2.** W przypadku Kodów typu (c) realizacja następuje **bezpośrednio w systemach Nourishy** — Użytkownik wpisuje Kod w Aplikacji i Premium zostaje aktywowane natychmiast. Tego typu Kod nie generuje transakcji w App Store ani Google Play i nie podlega procesowi zwrotów tych platform.
+- **9.3. Sposób realizacji kodów (Zgodność ze sklepami mobilnymi):**
+  - Wszystkie transakcje z użyciem kodów ofertowych i promocyjnych są realizowane **wyłącznie za pośrednictwem natywnych mechanizmów platform dystrybucyjnych (Apple App Store / Google Play)** z wykorzystaniem oficjalnych arkuszy realizacji kodów lub bezpośrednich odnośników do sklepów.
+  - Usługodawca nie prowadzi własnego, niezależnego od platform Apple i Google mechanizmu sprzedaży, odblokowywania funkcji płatnych ani realizacji transakcji finansowych.
+  - Subskrypcja aktywowana za pomocą kodu promocyjnego podlega ogólnym warunkom subskrypcji odnawialnych w App Store lub Google Play, w tym automatycznemu odnowieniu po cenie standardowej po zakończeniu okresu promocyjnego, chyba że Użytkownik anuluje ją co najmniej 24 godziny przed końcem okresu promocyjnego.
 
-* **9.4. Ograniczenia użycia Kodu:**
-  * **(a)** Jeden Kod może być wykorzystany **tylko raz** na jedno konto Użytkownika, chyba że warunki Kodu stanowią inaczej;
-  * **(b)** Kod może podlegać łącznemu limitowi aktywacji (np. pierwsze 1000 użyć), po którego wyczerpaniu traci ważność;
-  * **(c)** Kod ma ograniczony czas ważności wskazany w warunkach kampanii;
-  * **(d)** Kod może być użyty wyłącznie przez **nowych Użytkowników**, którzy nie posiadali wcześniej aktywnej subskrypcji Premium ani nie korzystali z okresu próbnego, chyba że warunki Kodu stanowią inaczej;
-  * **(e)** Kod nie łączy się z innymi promocjami ani rabatami, chyba że warunki Kodu wyraźnie to dopuszczają;
-  * **(f)** Kod jest przypisany do konkretnej platformy (iOS, Android lub obie) i może nie działać na platformie nieobsługiwanej przez daną kampanię.
+- **9.4. Ograniczenia i zasady wykorzystania:**
+  - Kod może być zrealizowany wyłącznie jeden raz na danym Koncie Apple lub koncie Google, o ile warunki danej kampanii nie stanowią inaczej.
+  - Kody posiadają określony termin ważności oraz mogą podlegać limitom ilościowym ustalonym w systemach Apple App Store lub Google Play.
+  - Usługodawca nie odpowiada za brak możliwości realizacji kodu wynikający z ograniczeń technicznych nałożonych przez Apple lub Google (np. posiadanie innej aktywnej subskrypcji, wcześniejsze skorzystanie z oferty dla nowych użytkowników lub niezgodność regionu konta).
 
-* **9.5. Zakaz nadużyć:** Zabronione jest w szczególności:
-  * **(a)** wykorzystywanie Kodu przez tę samą osobę przy użyciu wielu kont w celu wielokrotnego uzyskania benefitu;
-  * **(b)** odsprzedaż, udostępnianie publiczne ani masowa dystrybucja Kodów bez pisemnej zgody Nourishy (Kody udostępniane są wyłącznie w ramach kampanii danego Twórcy);
-  * **(c)** wykorzystywanie luk technicznych, automatyzacji, botów lub innych metod manipulacji w celu uzyskania benefitu;
-  * **(d)** podawanie nieprawdziwych danych w celu obejścia ograniczeń z pkt 9.4.
+- **9.5. Zakaz nadużyć:**
+  - Zabrania się odsprzedaży kodów promocyjnych oraz ich masowej, zautomatyzowanej dystrybucji z naruszeniem warunków promocji. Usługodawca zastrzega sobie prawo do unieważnienia kodów wygenerowanych lub pozyskanych w sposób sprzeczny z prawem lub niniejszym Regulaminem.
 
-  W przypadku stwierdzenia nadużycia Nourishy ma prawo **natychmiast unieważnić Kod, cofnąć przyznany benefit Premium oraz — w rażących przypadkach — zablokować lub usunąć konto Użytkownika** bez prawa do zwrotu opłat.
-
-* **9.6. Zmiana i dezaktywacja Kodów:** Nourishy zastrzega sobie prawo do **zmiany warunków, dezaktywacji lub unieważnienia Kodu w dowolnym momencie, bez podania przyczyny i bez uprzedzenia**, w szczególności w przypadku zakończenia współpracy z Twórcą, naruszenia warunków kampanii lub podejrzenia nadużyć. Dezaktywacja Kodu nie ma wpływu na już zrealizowane benefity, chyba że zostały uzyskane w sposób sprzeczny z niniejszym Regulaminem.
-
-* **9.7. Brak odpowiedzialności za treści Twórców:** Nourishy nie odpowiada za treści publikowane przez Twórców w ramach kampanii promocyjnych, w tym za obietnice, opinie ani opisy funkcji Aplikacji wykraczające poza niniejszy Regulamin. Obowiązującym źródłem opisu funkcji i warunków Premium jest wyłącznie Regulamin oraz dokumentacja w Aplikacji. Użytkownik nie może dochodzić roszczeń wobec Nourishy w oparciu o oświadczenia Twórcy, które nie zostały potwierdzone przez Nourishy.
-
-* **9.8. Kontakt w sprawie Kodów:** Wszelkie pytania i zgłoszenia dotyczące Kodów (błędne działanie, problemy z aktywacją, zgłoszenie nadużycia) należy kierować na adres wskazany w **pkt 7.2** niniejszego Regulaminu.
+- **9.6. Kontakt w sprawie problemów z kodami:**
+  - W razie problemów technicznych z działaniem Aplikacji po aktywacji kodu ofertowego w sklepie mobilnym, Użytkownik może skontaktować się ze wsparciem pod adresem: 📧 **support@nourishy.eu**.

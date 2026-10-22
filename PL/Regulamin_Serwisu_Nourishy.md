@@ -2,18 +2,18 @@
 
 **Usługodawca:** Marcin Głąb (działalność nierejestrowana)  
 **Kontakt:** 📧 support@nourishy.eu  
-**Data ostatniej aktualizacji:** 4 sierpnia 2026 r.
+**Data ostatniej aktualizacji:** 23 października 2026 r.
 
-Niniejszy Regulamin (zwany również **„EULA”**) określa zasady korzystania z aplikacji mobilnej Nourishy (identyfikator: `com.nourishy.app`), zwanej dalej **„Aplikacją”**. Pobranie, instalacja lub utworzenie konta w Aplikacji oznacza pełną akceptację niniejszego Regulaminu.
+Niniejszy Regulamin (zwany również **„EULA"**) określa zasady korzystania z aplikacji mobilnej Nourishy (identyfikator: `com.nourishy.app`), zwanej dalej **„Aplikacją"**. Pobranie, instalacja lub utworzenie konta w Aplikacji oznacza pełną akceptację niniejszego Regulaminu.
 
 ---
 
 ## 1. Postanowienia ogólne i status Usługodawcy
 
 * **1.1. Usługodawca:** Właścicielem i operatorem Aplikacji jest osoba fizyczna prowadząca działalność nierejestrowaną (w rozumieniu polskiej ustawy Prawo przedsiębiorców): Marcin Głąb.
-* **1.2. Zakres Aplikacji:** Aplikacja udostępnia narzędzia wspomagające organizację żywienia, w tym algorytmiczny dobór przepisów i planów posiłków, funkcję wirtualnej lodówki, listy zakupów oraz moduly analizy obrazu (zdjęć posiłków i produktów) z wykorzystaniem sztucznej inteligencji (AI).
+* **1.2. Zakres Aplikacji:** Aplikacja udostępnia narzędzia wspomagające organizację żywienia, w tym algorytmiczny dobór przepisów i planów posiłków, funkcję wirtualnej lodówki, listy zakupów oraz moduły analizy obrazu (zdjęć posiłków i produktów) z wykorzystaniem sztucznej inteligencji (AI).
 * **1.3. Ograniczenie wiekowe:** Aplikacja przeznaczona jest wyłącznie dla osób pełnoletnich (**18+**). Usługodawca nie zbiera świadomie danych osób niepełnoletnich. Rejestracja przez osobę niepełnoletnią skutkuje natychmiastowym usunięciem konta.
-* **1.4. Dokumenty powiązane:** Zasady przetwarzania danych osobowych określa [Polityka Prywatności](Polityka_Prywatnosci_Nourishy.md).
+* **1.4. Dokumenty powiązane:** Zasady przetwarzania danych osobowych określa Polityka Prywatności Nourishy.
 
 ---
 
@@ -36,11 +36,11 @@ Niniejszy Regulamin (zwany również **„EULA”**) określa zasady korzystania
 
 ## 4. Subskrypcje Nourishy Premium
 
-* **4.1. Wersja Premium:** Dostęp do zaawansowanych funkcji (np. analiza zdjęć, rozbudowane plany) wymaga zakupu odnawialnej subskrypcji Premium. Funkcje Premium podlegają limitom Fair Use — konkretne limity określa **pkt 8** [Regulaminu Subskrypcji Nourishy Premium](Regulamin_Subskrypcji_Nourishy_Premium.md).
+* **4.1. Wersja Premium:** Dostęp do zaawansowanych funkcji (np. analiza zdjęć, rozbudowane plany) wymaga zakupu odnawialnej subskrypcji Premium. Funkcje Premium podlegają limitom Fair Use — konkretne limity określa pkt 8 Regulaminu Subskrypcji Nourishy Premium.
 * **4.2. Płatności in-app:** Wszystkie płatności i transakcje są obsługiwane w całości przez platformę **Apple App Store** lub **Google Play** (z wykorzystaniem infrastruktury technicznej RevenueCat). Usługodawca nie przechowuje ani nie przetwarza danych kart płatniczych.
 * **4.3. Automatyczne odnawianie:** Subskrypcja odnawia się automatycznie na kolejny okres rozliczeniowy (miesięczny lub roczny), chyba że zostanie anulowana co najmniej 24 godziny przed końcem bieżącego okresu subskrypcji.
-* **4.4. Instrukcja anulowania subskrypcji (iOS):** Użytkownik może w dowolnym momencie anulować subskrypcję w ustawieniach konta Apple ID:  
-  *Ustawienia iOS -> [Twoje Imię i Nazwisko / Apple ID] -> Subskrypcje -> Nourishy -> Anuluj subskrypcję*.
+* **4.4. Instrukcja anulowania subskrypcji (iOS):** Użytkownik może w dowolnym momencie anulować subskrypcję w ustawieniach Konta Apple:  
+  *Ustawienia iOS → [Twoje Imię i Nazwisko / Konto Apple] → Subskrypcje → Nourishy → Anuluj subskrypcję*.
 * **4.5. Zwroty środków:** Wszelkie procedury zwrotów opłat za subskrypcję są realizowane wyłącznie przez sklep Apple App Store lub Google Play zgodnie z ich wewnętrznymi zasadami handlowymi.
 
 ---
@@ -63,7 +63,7 @@ Niniejszy Regulamin (zwany również **„EULA”**) określa zasady korzystania
 
 ## 7. Usunięcie konta, Reklamacje i Prawa Konsumenta
 
-* **7.1. Usunięcie Konta:** Użytkownik może w dowolnym momencie usunąć konto w Aplikacji (`Profil -> Ustawienia -> Usuń konto`). Usunięcie konta powoduje bezpowrotne skasowanie danych z bazy produkcyjnej.
+* **7.1. Usunięcie Konta:** Użytkownik może w dowolnym momencie usunąć konto w Aplikacji (`Profil → Ustawienia → Usuń konto`). Usunięcie konta powoduje bezpowrotne skasowanie danych z bazy produkcyjnej.
 * **7.2. Usunięcie konta a subskrypcja:** Usunięcie konta **nie powoduje** automatycznego anulowania subskrypcji w Apple/Google Store — należy ją anulować ręcznie zgodnie z pkt 4.4.
 * **7.3. Procedura reklamacyjna:** Wszelkie uwagi, błędy techniczne oraz reklamacje dotyczące działania Aplikacji należy zgłaszać e-mailowo na adres: `support@nourishy.eu`. Usługodawca rozpatruje reklamacje w terminie **14 dni** od daty ich otrzymania.
 

@@ -2,7 +2,7 @@
 
 **Service Provider:** Marcin Głąb (unregistered business activity)  
 **Application:** Nourishy (identifier: `com.nourishy.app`)  
-**Last updated:** 4 August 2026
+**Last updated:** 23 October 2026
 
 ---
 
@@ -25,7 +25,7 @@
 ## 3. Food Allergies, Intolerances and User Risk
 
 * **3.1. Exclusion of allergen detection:** The Application and AI modules may fail to detect allergens, trace amounts of allergenic substances or unwanted ingredients in scanned meals and products.
-* **3.2. Exclusive User responsibility:** Exclusive responsibility for verifying consumed products with regard to the User’s own allergies, food intolerances and medical conditions rests with the User.
+* **3.2. Exclusive User responsibility:** Exclusive responsibility for verifying consumed products with regard to the User's own allergies, food intolerances and medical conditions rests with the User.
 * **3.3. Exclusion of compensatory liability:** Marcin Głąb is not liable for any dietary decisions of the User, including for the occurrence of allergic reactions, anaphylactic shock, food poisoning, health complications or injury to health resulting from consumption of products analysed or suggested by the Application.
 
 ---

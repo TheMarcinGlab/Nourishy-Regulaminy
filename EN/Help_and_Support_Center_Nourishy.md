@@ -1,5 +1,7 @@
 # 🌟 Nourishy Help and Technical Support Center
 
+**Last updated:** 23 October 2026
+
 Welcome to the technical support page for the **Nourishy** application – your personal nutrition assistant powered by artificial intelligence (AI). Our team makes every effort to ensure the application runs smoothly and helps you with daily meal planning, managing your virtual fridge and analysing macronutrients from photos and barcodes.
 
 If you have encountered a technical problem, have a question about a Premium subscription or would like to share your feedback with us – we are here to help.
@@ -10,7 +12,7 @@ If you have encountered a technical problem, have a question about a Premium sub
 
 All service reports, questions and complaints are accepted exclusively by electronic means. Write to us directly at our official dedicated e-mail address:
 
-📧 **[support@nourishy.eu](mailto:support@nourishy.eu)**
+📧 **support@nourishy.eu**
 
 * **Response time:** We reply to messages as quickly as possible – usually within **48 business hours** (Monday to Friday, excluding public holidays).
 * 💡 **Tip:** To speed up the resolution of your issue as much as possible, include in your message the e-mail address linked to your account in the application and briefly describe the error you encountered (attaching a screenshot is recommended).
@@ -26,9 +28,9 @@ All payments in the Nourishy application are processed directly and exclusively 
 You can do it yourself in just a few seconds:
 
 * 📱 **If you use an Apple (iOS) device:**  
-  Go to *iPhone Settings* → Tap your name (*Apple ID*) at the top → Select the *“Subscriptions”* section → Find *Nourishy* and tap *“Cancel Subscription”*.
+  Go to *iPhone Settings* → Tap your name (*Apple Account*) at the top → Select the *"Subscriptions"* section → Find *Nourishy* and tap *"Cancel Subscription"*.
 * 🤖 **If you use an Android device:**  
-  Open the *Google Play Store* → Tap your profile icon in the top right → Select *“Payments & subscriptions”* → Enter *“Subscriptions”* → Find *Nourishy* and tap *“Cancel subscription”*.
+  Open the *Google Play Store* → Tap your profile icon in the top right → Select *"Payments & subscriptions"* → Enter *"Subscriptions"* → Find *Nourishy* and tap *"Cancel subscription"*.
 
 *After cancellation, you will retain access to all Premium features until the end of the current, already paid billing period.*
 
@@ -39,7 +41,7 @@ You have the full right to be forgotten under the GDPR. To permanently delete yo
 1. Open the **Nourishy** application.
 2. Go to the **Profile** tab.
 3. Enter **Settings**.
-4. Select the **“Delete account”** option and confirm your choice.
+4. Select the **"Delete account"** option and confirm your choice.
 
 ⚠️ **ABSOLUTE LEGAL WARNING:** The account deletion process in the application is immediate and irreversible. Remember, however, that **deleting your account does NOT automatically cancel an active Premium subscription** with the store operator (Apple/Google). To avoid further charges, you must absolutely cancel the subscription in your device settings before deleting the account (in accordance with the instructions in point 1 above).
 
@@ -49,7 +51,7 @@ The artificial intelligence (AI) models on which Nourishy is based generate resp
 
 🩺 **ABSOLUTE CONTRACTUAL OBLIGATION OF THE CUSTOMER TO VERIFY INGREDIENTS AS A CONDITION OF SAFE CONSUMPTION:** The Nourishy Application serves a solely informational, educational and lifestyle function. It is not a medical device and does not constitute medical, diagnostic or professional dietary advice.
 
-**Each generation of a recipe, meal plan or barcode reading by the Application does not constitute final consent to consume a given product. As a User, you have an absolute contractual and technological obligation to independently and separately verify the ingredients and physical composition of the meal before consuming it with regard to your own allergies, food intolerances and health condition.** The Service Provider is not liable for any injury to health (including allergic reactions or food poisoning) resulting from failure to carry out this verification. Failure by the User to fulfil this obligation is deemed gross negligence constituting the sole cause of any damage, which releases the Service Provider from liability. If you notice a recurring error in the analysis, report it to us at [support@nourishy.eu](mailto:support@nourishy.eu).
+**Each generation of a recipe, meal plan or barcode reading by the Application does not constitute final consent to consume a given product. As a User, you have an absolute contractual and technological obligation to independently and separately verify the ingredients and physical composition of the meal before consuming it with regard to your own allergies, food intolerances and health condition.** The Service Provider is not liable for any injury to health (including allergic reactions or food poisoning) resulting from failure to carry out this verification. Failure by the User to fulfil this obligation is deemed gross negligence constituting the sole cause of any damage, which releases the Service Provider from liability. If you notice a recurring error in the analysis, report it to us at support@nourishy.eu.
 
 ### 4. I encountered an error during registration or login
 
@@ -57,7 +59,7 @@ The authentication, login and password reset process in the Nourishy application
 
 * Make sure you are entering the correct e-mail address linked to the account and password.
 * In case of password reset problems (e.g. no e-mail with a reset link), carefully check the **SPAM** or junk folder in your mailbox.
-* If the error persists, contact us at [support@nourishy.eu](mailto:support@nourishy.eu), providing the make and model of your device and the system version (iOS/Android).
+* If the error persists, contact us at support@nourishy.eu, providing the make and model of your device and the system version (iOS/Android).
 
 ### 5. What is the minimum age of an Application User?
 
@@ -69,7 +71,7 @@ The Application is intended exclusively for adults who have reached the age of *
 
 Before submitting a report, we encourage you to familiarise yourself with our full legal documents, which describe in detail the rules of the application, subscriptions and the full protection of your privacy:
 
-* [Nourishy Terms of Service and Application](Terms_of_Service_Nourishy.md)
-* [Nourishy Premium Subscription Terms](Regulamin_Subskrypcji_Nourishy_Premium.md)
-* [Nourishy Application Privacy Policy](Privacy_Policy_Nourishy.md)
-* [Health Disclaimer](Health_Disclaimer_Nourishy.md)
+* Nourishy Terms of Service and Application
+* Nourishy Premium Subscription Terms
+* Nourishy Application Privacy Policy
+* Health Disclaimer

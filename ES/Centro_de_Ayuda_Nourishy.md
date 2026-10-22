@@ -1,5 +1,7 @@
 # 🌟 Centro de Ayuda y Soporte Técnico de Nourishy
 
+**Última actualización:** 23 de octubre de 2026
+
 Bienvenido a la página de soporte técnico de la aplicación **Nourishy** – tu asistente nutricional personal impulsado por inteligencia artificial (IA). Nuestro equipo pone todo su empeño para que la aplicación funcione sin fallos y te ayude en la planificación diaria de comidas, la gestión de la nevera virtual y el análisis de macronutrientes a partir de fotografías y códigos de barras.
 
 Si has encontrado un problema técnico, tienes una pregunta sobre la suscripción Premium o quieres compartir tu opinión con nosotros – estamos aquí para ayudarte.
@@ -10,7 +12,7 @@ Si has encontrado un problema técnico, tienes una pregunta sobre la suscripció
 
 Todas las notificaciones de servicio, preguntas y reclamaciones se aceptan exclusivamente por vía electrónica. Escríbenos directamente a nuestra dirección oficial y dedicada de correo electrónico:
 
-📧 **[support@nourishy.eu](mailto:support@nourishy.eu)**
+📧 **support@nourishy.eu**
 
 * **Tiempo de respuesta:** Respondemos a los mensajes lo más rápido posible – normalmente en un plazo de **48 horas laborables** (de lunes a viernes, excluidos los días festivos).
 * 💡 **Consejo:** Para acelerar al máximo la resolución de tu problema, incluye en el mensaje la dirección de correo electrónico vinculada a tu cuenta en la aplicación y describe brevemente el error encontrado (se recomienda adjuntar una captura de pantalla).
@@ -26,7 +28,7 @@ Todos los pagos en la aplicación Nourishy son procesados directa y exclusivamen
 Puedes hacerlo tú mismo en tan solo unos segundos:
 
 * 📱 **Si usas un dispositivo Apple (iOS):**  
-  Entra en *Ajustes del iPhone* → Pulsa tu nombre y apellido (*Apple ID*) en la parte superior → Selecciona la sección *«Suscripciones»* → Busca *Nourishy* y pulsa *«Cancelar suscripción»*.
+  Entra en *Ajustes del iPhone* → Pulsa tu nombre y apellido (*Cuenta de Apple*) en la parte superior → Selecciona la sección *«Suscripciones»* → Busca *Nourishy* y pulsa *«Cancelar suscripción»*.
 * 🤖 **Si usas un dispositivo con sistema Android:**  
   Abre *Google Play Store* → Pulsa el icono de tu perfil en la esquina superior derecha → Selecciona *«Pagos y suscripciones»* → Entra en *«Suscripciones»* → Busca *Nourishy* y pulsa *«Cancelar suscripción»*.
 
@@ -49,7 +51,7 @@ Los modelos de inteligencia artificial (IA) en los que se basa Nourishy generan 
 
 🩺 **OBLIGACIÓN CONTRACTUAL ABSOLUTA DEL CLIENTE DE VERIFICAR LOS INGREDIENTES COMO CONDICIÓN DE CONSUMO SEGURO:** La Aplicación Nourishy cumple una función exclusivamente informativa, educativa y de estilo de vida. No es un producto sanitario y no constituye asesoramiento médico, diagnóstico ni asesoramiento dietético profesional.
 
-**Cada generación de una receta, plan de comidas o lectura de un código de barras por la Aplicación no constituye el consentimiento definitivo para el consumo de un producto determinado. Como Usuario, tienes la obligación contractual y tecnológica absoluta de verificar de forma independiente y autónoma los ingredientes y la composición física del plato antes de consumirlo en relación con tus propias alergias, intolerancias alimentarias y estado de salud.** El Prestador del servicio no responde de ningún daño a la salud (incluidas reacciones alérgicas o intoxicaciones) derivado del incumplimiento de esta verificación. El incumplimiento de esta obligación por parte del Usuario se considera negligencia grave que constituye la causa exclusiva del eventual daño, lo que exime de responsabilidad al Prestador del servicio. Si observas un error recurrente en el análisis, infórmanos en la dirección [support@nourishy.eu](mailto:support@nourishy.eu).
+**Cada generación de una receta, plan de comidas o lectura de un código de barras por la Aplicación no constituye el consentimiento definitivo para el consumo de un producto determinado. Como Usuario, tienes la obligación contractual y tecnológica absoluta de verificar de forma independiente y autónoma los ingredientes y la composición física del plato antes de consumirlo en relación con tus propias alergias, intolerancias alimentarias y estado de salud.** El Prestador del servicio no responde de ningún daño a la salud (incluidas reacciones alérgicas o intoxicaciones) derivado del incumplimiento de esta verificación. El incumplimiento de esta obligación por parte del Usuario se considera negligencia grave que constituye la causa exclusiva del eventual daño, lo que exime de responsabilidad al Prestador del servicio. Si observas un error recurrente en el análisis, infórmanos en la dirección support@nourishy.eu.
 
 ### 4. He encontrado un error durante el registro o el inicio de sesión
 
@@ -57,7 +59,7 @@ El proceso de autenticación, inicio de sesión y restablecimiento de contraseñ
 
 * Asegúrate de que introduces la dirección de correo electrónico correcta vinculada a la cuenta y la contraseña.
 * En caso de problemas con el restablecimiento de la contraseña (p. ej. ausencia del mensaje de correo con el enlace de restablecimiento), comprueba detenidamente la carpeta **SPAM** o de correo no deseado en tu buzón.
-* Si el error persiste, contacta con nosotros en la dirección [support@nourishy.eu](mailto:support@nourishy.eu), indicando la marca y el modelo del dispositivo y la versión del sistema (iOS/Android).
+* Si el error persiste, contacta con nosotros en la dirección support@nourishy.eu, indicando la marca y el modelo del dispositivo y la versión del sistema (iOS/Android).
 
 ### 5. ¿Cuál es la edad mínima del Usuario de la aplicación?
 
@@ -69,7 +71,7 @@ La Aplicación está destinada exclusivamente a personas mayores de edad que hay
 
 Antes de enviar una notificación, te animamos a familiarizarte con nuestros documentos jurídicos completos, que describen en detalle las reglas de funcionamiento de la aplicación, las suscripciones y la plena protección de tu privacidad:
 
-* [Términos del Servicio y de la Aplicación Nourishy](Terminos_del_Servicio_Nourishy.md)
-* [Condiciones de Suscripción Nourishy Premium](Reglamento_Suscripcion_Nourishy_Premium.md)
-* [Política de Privacidad de la Aplicación Nourishy](Politica_de_Privacidad_Nourishy.md)
-* [Aviso de Salud](Aviso_de_Salud_Nourishy.md)
+* Términos del Servicio y de la Aplicación Nourishy
+* Condiciones de Suscripción Nourishy Premium
+* Política de Privacidad de la Aplicación Nourishy
+* Aviso de Salud

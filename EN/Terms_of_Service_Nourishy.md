@@ -2,18 +2,18 @@
 
 **Service Provider:** Marcin Głąb (unregistered business activity)  
 **Contact:** 📧 support@nourishy.eu  
-**Last updated:** 4 August 2026
+**Last updated:** 23 October 2026
 
-These Terms (also referred to as the **“EULA”**) set out the rules for using the Nourishy mobile application (identifier: `com.nourishy.app`), hereinafter referred to as the **“Application”**. Downloading, installing or creating an account in the Application constitutes full acceptance of these Terms.
+These Terms (also referred to as the **"EULA"**) set out the rules for using the Nourishy mobile application (identifier: `com.nourishy.app`), hereinafter referred to as the **"Application"**. Downloading, installing or creating an account in the Application constitutes full acceptance of these Terms.
 
 ---
 
 ## 1. General Provisions and Status of the Service Provider
 
-* **1.1. Service Provider:** The owner and operator of the Application is a natural person conducting unregistered business activity (within the meaning of the Polish Entrepreneurs’ Law): Marcin Głąb.
+* **1.1. Service Provider:** The owner and operator of the Application is a natural person conducting unregistered business activity (within the meaning of the Polish Entrepreneurs' Law): Marcin Głąb.
 * **1.2. Scope of the Application:** The Application provides tools supporting meal organisation, including algorithmic selection of recipes and meal plans, a virtual fridge feature, shopping lists and image analysis modules (photos of meals and products) using artificial intelligence (AI).
 * **1.3. Age restriction:** The Application is intended exclusively for adults (**18+**). The Service Provider does not knowingly collect data of minors. Registration by a minor results in immediate account deletion.
-* **1.4. Related documents:** The rules for processing personal data are set out in the [Privacy Policy](Privacy_Policy_Nourishy.md).
+* **1.4. Related documents:** The rules for processing personal data are set out in the Nourishy Privacy Policy.
 
 ---
 
@@ -36,11 +36,11 @@ These Terms (also referred to as the **“EULA”**) set out the rules for using
 
 ## 4. Nourishy Premium Subscriptions
 
-* **4.1. Premium version:** Access to advanced features (e.g. photo analysis, extended plans) requires purchase of a renewable Premium subscription. Premium features are subject to Fair Use limits — specific limits are set out in **Section 8** of the [Nourishy Premium Subscription Terms](Regulamin_Subskrypcji_Nourishy_Premium.md).
+* **4.1. Premium version:** Access to advanced features (e.g. photo analysis, extended plans) requires purchase of a renewable Premium subscription. Premium features are subject to Fair Use limits — specific limits are set out in **Section 8** of the Nourishy Premium Subscription Terms.
 * **4.2. In-app payments:** All payments and transactions are handled entirely by the **Apple App Store** or **Google Play** platform (using RevenueCat technical infrastructure). The Service Provider does not store or process payment card data.
 * **4.3. Automatic renewal:** The subscription renews automatically for the next billing period (monthly or annual), unless cancelled at least 24 hours before the end of the current subscription period.
-* **4.4. Subscription cancellation instructions (iOS):** The User may cancel the subscription at any time in Apple ID account settings:  
-  *iOS Settings -> [Your Name / Apple ID] -> Subscriptions -> Nourishy -> Cancel Subscription*.
+* **4.4. Subscription cancellation instructions (iOS):** The User may cancel the subscription at any time in Apple Account settings:  
+  *iOS Settings → [Your Name / Apple Account] → Subscriptions → Nourishy → Cancel Subscription*.
 * **4.5. Refunds:** All procedures for refunding subscription fees are carried out exclusively by the Apple App Store or Google Play in accordance with their internal commercial terms.
 
 ---
@@ -57,13 +57,13 @@ These Terms (also referred to as the **“EULA”**) set out the rules for using
 
 * **6.1. Exclusion of warranty:** The Application is provided as is (*"as is"*), without warranty of error-free or continuous operation.
 * **6.2. Limitation of liability:** The Service Provider is not liable for adverse allergic reactions, food poisoning or injury to health resulting from consumption of products analysed by the Application. The User makes all dietary decisions at their own risk.
-* **6.3. Liability cap:** To the maximum extent permitted by Polish law, the Service Provider’s total liability to the User is limited to the amount actually paid by the User for the Premium subscription within the last 12 months.
+* **6.3. Liability cap:** To the maximum extent permitted by Polish law, the Service Provider's total liability to the User is limited to the amount actually paid by the User for the Premium subscription within the last 12 months.
 
 ---
 
 ## 7. Account Deletion, Complaints and Consumer Rights
 
-* **7.1. Account Deletion:** The User may delete their account in the Application at any time (`Profile -> Settings -> Delete account`). Account deletion results in permanent erasure of data from the production database.
+* **7.1. Account Deletion:** The User may delete their account in the Application at any time (`Profile → Settings → Delete account`). Account deletion results in permanent erasure of data from the production database.
 * **7.2. Account deletion and subscription:** Account deletion **does not** automatically cancel the subscription in the Apple/Google Store — it must be cancelled manually in accordance with section 4.4.
 * **7.3. Complaints procedure:** All comments, technical errors and complaints regarding the operation of the Application should be submitted by e-mail to: `support@nourishy.eu`. The Service Provider reviews complaints within **14 days** of receipt.
 

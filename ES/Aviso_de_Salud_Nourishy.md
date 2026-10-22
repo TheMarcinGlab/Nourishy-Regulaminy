@@ -2,7 +2,7 @@
 
 **Prestador del servicio:** Marcin Głąb (actividad no registrada)  
 **Aplicación:** Nourishy (identificador: `com.nourishy.app`)  
-**Fecha de la última actualización:** 4 de agosto de 2026
+**Fecha de la última actualización:** 23 de octubre de 2026
 
 ---
 

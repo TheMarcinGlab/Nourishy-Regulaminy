@@ -2,7 +2,7 @@
 
 **Proveedor de servicios:** Marcin Głąb (actividad comercial no registrada)  
 **Contacto:** 📧 support@nourishy.eu  
-**Última actualización:** 10 de octubre de 2026
+**Última actualización:** 23 de octubre de 2026
 
 Este documento constituye los términos y condiciones para la prestación de servicios electrónicos en relación con la variante de suscripción de pago (Premium) en la aplicación móvil Nourishy (ID de la aplicación: `com.nourishy.app`), en adelante denominada la **"Aplicación"**. Al adquirir una suscripción a través del muro de pago (paywall) en la Aplicación, el Usuario acepta íntegramente las siguientes condiciones.
 
@@ -39,7 +39,7 @@ Este documento constituye los términos y condiciones para la prestación de ser
 - **4.2.**
   > ⚠️ **Limitaciones técnicas y legales:** El Proveedor de servicios no tiene la autoridad técnica ni legal para cancelar una suscripción en nombre del Usuario ni para modificar su facturación. La cancelación debe realizarse de forma independiente en los ajustes de la cuenta del sistema:
   >
-  > * 🍏 **Dispositivos iOS (Apple):** Abra *Ajustes del iPhone* → Toque su nombre (*ID de Apple*) → Seleccione *Suscripciones* → Busque *Nourishy* → Toque *Cancelar suscripción*.
+  > * 🍏 **Dispositivos iOS (Apple):** Abra *Ajustes del iPhone* → Toque su nombre (*Cuenta de Apple*) → Seleccione *Suscripciones* → Busque *Nourishy* → Toque *Cancelar suscripción*.
   > * 🤖 **Dispositivos Android (Google):** Abra la aplicación *Google Play Store* → Toque el icono de perfil en la esquina superior derecha → Seleccione *Pagos y suscripciones* → Vaya a *Suscripciones* → Busque *Nourishy* → Toque *Cancelar suscripción*.
 
 ---
@@ -68,7 +68,7 @@ Este documento constituye los términos y condiciones para la prestación de ser
 
 - **7.1.** El proveedor de la Aplicación y la entidad que presta los servicios Premium es Marcin Głąb.
 - **7.2.** Todas las preguntas, solicitudes de servicio y reclamaciones técnicas deben dirigirse a la dirección de correo electrónico específica:  
-  📧 **[support@nourishy.eu](mailto:support@nourishy.eu)**
+  📧 **support@nourishy.eu**
 
 ---
 
@@ -78,29 +78,25 @@ Este documento constituye los términos y condiciones para la prestación de ser
 - **8.2.** La semana de facturación comienza el **lunes a las 00:00** (Europa/Varsovia). El día de facturación se reinicia a las **00:00** (Europa/Varsovia).
 - **8.3. Límites para la cuenta Premium** (y período de Prueba activo tratado como Premium):
 
-  | Función | Límite diario | Límite semanal |
-  |---|---|---|
-  | Generación de plan de comidas de 7 días | 3 | — |
-  | Generación de recetas por IA | 15 | 70 |
-  | Escaneo de recibos | 3 | 10 |
-  | Análisis macro de comidas ("Conoce tus macros") | 3 | 10 |
-  | Análisis de fotos de productos / nevera | 10 | 50 |
-  | Escaneo de códigos de barras | 150 | — |
-  | Nevera virtual — artículos activos | — | hasta **500** simultáneamente |
+  - **Generación de plan de comidas de 7 días** — Límite diario: 3 / Límite semanal: —
+  - **Generación de recetas por IA** — Límite diario: 15 / Límite semanal: 70
+  - **Escaneo de recibos** — Límite diario: 3 / Límite semanal: 10
+  - **Análisis macro de comidas ("Conoce tus macros")** — Límite diario: 3 / Límite semanal: 10
+  - **Análisis de fotos de productos / nevera** — Límite diario: 10 / Límite semanal: 50
+  - **Escaneo de códigos de barras** — Límite diario: 150 / Límite semanal: —
+  - **Nevera virtual — artículos activos** — hasta **500** simultáneamente
 
 - **8.4.** Funciones Premium sin límite cuantitativo de llamadas independiente (sujeto al cumplimiento del resto de los Términos): incluye la armonización del plan con el contenido de la nevera y la activación de planes de comidas posteriores.
 - **8.5. Límites orientativos de la versión gratuita (FREE)** — por motivos de transparencia (no constituyen una oferta Premium):
 
-  | Función | Límite |
-  |---|---|
-  | Generación de plan de comidas de 7 días | 1× durante la vida útil de la cuenta (demo) |
-  | Generación de recetas por IA | 3 / semana |
-  | Análisis macro de comidas | 3 / semana |
-  | Análisis de fotos de productos | 2 / semana |
-  | Escaneo de códigos de barras | 15 / semana |
-  | Escaneo de recibos | no disponible |
-  | Nevera virtual — artículos activos | hasta **15** simultáneamente |
-  | Visibilidad de días del plan | Próximos 3 días |
+  - **Generación de plan de comidas de 7 días** — 1× durante la vida útil de la cuenta (demo)
+  - **Generación de recetas por IA** — 3 / semana
+  - **Análisis macro de comidas** — 3 / semana
+  - **Análisis de fotos de productos** — 2 / semana
+  - **Escaneo de códigos de barras** — 15 / semana
+  - **Escaneo de recibos** — no disponible
+  - **Nevera virtual — artículos activos** — hasta **15** simultáneamente
+  - **Visibilidad de días del plan** — Próximos 3 días
 
 - **8.6.** El Proveedor de servicios puede modificar los límites de Uso Justo anunciando un cambio significativo dentro de la Aplicación o actualizando estos Términos y Condiciones. El contenido actual de la **Sección 8** es la única tabla de límites vinculante; los mensajes de marketing dentro de la aplicación remiten a esta sección y no pueden interpretarse como una promesa de uso ilimitado.
 - **8.7.** Con independencia de los límites establecidos en las secciones 8.3–8.5, el Proveedor de servicios podrá aplicar medidas de protección contra bots (restricción a corto plazo del número de solicitudes en un breve lapso de tiempo) si detecta una actividad inusual.

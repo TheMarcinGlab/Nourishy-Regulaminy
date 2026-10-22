@@ -1,6 +1,6 @@
 # 🛡️ Política de Privacidad de la Aplicación Móvil Nourishy
 
-**Fecha de la última actualización:** 4 de agosto de 2026
+**Fecha de la última actualización:** 23 de octubre de 2026
 
 ---
 
@@ -21,9 +21,9 @@ Con el fin de permitir el uso de todas las funciones avanzadas de la Aplicación
 * **2.1. Datos de registro y autenticación:** dirección de correo electrónico, identificador de usuario generado por el sistema Auth0.
 * **2.2. Datos de perfil e información sobre la salud (Datos de categoría especial – Art. 9 RGPD):** peso, altura, edad, sexo, nivel de actividad física, preferencias gustativas, cocinas del mundo seleccionadas, objetivos nutricionales (p. ej. reducción de peso, desarrollo muscular) y, sobre todo, **alergias alimentarias, intolerancias y exclusiones dietéticas**.
   > 🧬 **Aviso jurídico:** Estos datos constituyen datos relativos a la salud en el sentido del art. 9, apartado 1, del RGPD. Su tratamiento se realiza exclusivamente sobre la base del consentimiento explícito, separado e informado del usuario, recogido durante el proceso de incorporación (onboarding).
-* **2.3. Contenidos del usuario:** las fotografías de comidas enviadas para su análisis por IA se tratan exclusivamente en tiempo real a efectos de la ejecución de la solicitud. El Responsable no utiliza las fotografías privadas de los usuarios para entrenar modelos públicos de IA. (detalles en los [Términos del Servicio](Terminos_del_Servicio_Nourishy.md), § 4.2).
+* **2.3. Contenidos del usuario:** las fotografías de comidas enviadas para su análisis por IA se tratan exclusivamente en tiempo real a efectos de la ejecución de la solicitud. El Responsable no utiliza las fotografías privadas de los usuarios para entrenar modelos públicos de IA. Los detalles se establecen en los Términos del Servicio de Nourishy, § 4.2.
 * **2.4. Datos de uso y contenido de la aplicación:** información introducida en el marco de la función de nevera virtual (productos poseídos), listas de la compra, historial de planes de comidas generados, preferencias valoradas mediante el método «swipe» y estadísticas de consumo de macronutrientes.
-* **2.5. Datos técnicos y de localización:** dirección IP, modelo del dispositivo móvil, versión del sistema operativo (iOS/Android), identificador único del dispositivo (IDFA/GAID), idioma del sistema, token único de notificaciones push y geolocalización (para la sincronización del mercado, la moneda y el país del usuario).
+* **2.5. Datos técnicos y de localización:** dirección IP, modelo del dispositivo móvil, versión del sistema operativo (iOS/Android), identificador anónimo de instalación (IDFV), idioma del sistema, token único de notificaciones push y geolocalización (para la sincronización del mercado, la moneda y el país del usuario).
 * **2.6. Datos transaccionales y de compra:** estado de la suscripción Premium (p. ej. versión de prueba, suscripción mensual, anual), fecha de compra, fecha de vencimiento e identificador de la transacción generado por el sistema RevenueCat y la tienda móvil.
   > 💳 **Importante:** El Responsable no recopila, trata ni ve los datos de las tarjetas de pago ni los datos bancarios detallados del usuario: los pagos son gestionados íntegramente por Apple App Store o Google Play.
 
@@ -65,7 +65,7 @@ Para garantizar el correcto y estable funcionamiento de la Aplicación, el Respo
 ## ⏱️ 6. Plazo de conservación de los datos personales
 
 * **6.1.** Los datos personales vinculados a la Cuenta del Usuario se tratan durante todo el período de actividad de la cuenta, es decir, durante la vigencia del contrato de prestación de servicios por vía electrónica.
-* **6.2.** En caso de que el usuario decida eliminar la cuenta (mediante la opción en la sección Perfil -> Ajustes -> Eliminar cuenta), sus datos personales se eliminan de forma permanente e irreversible en tiempo real de la base de datos de producción.
+* **6.2.** En caso de que el usuario decida eliminar la cuenta (mediante la opción en la sección Perfil → Ajustes → Eliminar cuenta), sus datos personales se eliminan de forma permanente e irreversible en tiempo real de la base de datos de producción.
 * **6.3.** Tras la eliminación de la cuenta, el Responsable se reserva el derecho de conservar únicamente un alcance estrictamente limitado y anonimizado de datos (p. ej. identificador de la transacción RevenueCat, fecha de inicio de sesión) exclusivamente con el fin de defenderse frente a eventuales reclamaciones jurídicas o fiscales, durante el plazo de prescripción de las reclamaciones derivado de las disposiciones del Código Civil polaco (máximo 6 años).
 * **6.4.** Los datos tratados sobre la base del consentimiento (p. ej. datos sobre salud y alergias, notificaciones push) se eliminan inmediatamente tras la retirada de dicho consentimiento por el usuario o la eliminación de la cuenta.
 
@@ -90,7 +90,7 @@ A todo usuario de la Aplicación le asisten los plenos derechos derivados de las
 
 * **8.1.** El inicio del procedimiento de eliminación de la cuenta en la aplicación provoca la eliminación automática, inmediata e irreversible de la dirección de correo electrónico, los datos de perfil (incluidas las alergias y los parámetros de salud), el historial de planes de comidas y las fotografías de los servidores y bases de datos asociados a la Aplicación.
 * **8.2.**
-  > ⚠️ **Información clave para el consumidor:** La eliminación autónoma de la cuenta en la Aplicación **no provoca la cancelación automática de una suscripción Premium activa** en Apple App Store o Google Play. Por motivos técnicos y jurídicos dependientes de los operadores de las tiendas móviles, el usuario tiene la obligación absoluta de cancelar la suscripción de forma independiente en la configuración de su dispositivo antes de eliminar la cuenta. En caso contrario, Apple/Google seguirán cobrando las cuotas. Para evitar la renovación automática de la suscripción en dispositivos iOS, se debe acceder a: Ajustes del sistema iOS -> [Tu Nombre y Apellido / Apple ID] -> Suscripciones -> Nourishy -> Cancelar suscripción, al menos 24 horas antes del final del período de facturación actual.
+  > ⚠️ **Información clave para el consumidor:** La eliminación autónoma de la cuenta en la Aplicación **no provoca la cancelación automática de una suscripción Premium activa** en Apple App Store o Google Play. Por motivos técnicos y jurídicos dependientes de los operadores de las tiendas móviles, el usuario tiene la obligación absoluta de cancelar la suscripción de forma independiente en la configuración de su dispositivo antes de eliminar la cuenta. En caso contrario, Apple/Google seguirán cobrando las cuotas. Para evitar la renovación automática de la suscripción en dispositivos iOS, se debe acceder a: Ajustes del sistema iOS → [Tu Nombre y Apellido / Cuenta de Apple] → Suscripciones → Nourishy → Cancelar suscripción, al menos 24 horas antes del final del período de facturación actual.
 
 ---
 

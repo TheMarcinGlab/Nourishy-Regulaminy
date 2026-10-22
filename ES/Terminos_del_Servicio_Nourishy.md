@@ -2,7 +2,7 @@
 
 **Prestador del servicio:** Marcin Głąb (actividad no registrada)  
 **Contacto:** 📧 support@nourishy.eu  
-**Fecha de la última actualización:** 4 de agosto de 2026
+**Fecha de la última actualización:** 23 de octubre de 2026
 
 Los presentes Términos (también denominados **«EULA»**) establecen las reglas de uso de la aplicación móvil Nourishy (identificador: `com.nourishy.app`), en adelante denominada la **«Aplicación»**. La descarga, la instalación o la creación de una cuenta en la Aplicación implica la plena aceptación de los presentes Términos.
 
@@ -13,7 +13,7 @@ Los presentes Términos (también denominados **«EULA»**) establecen las regla
 * **1.1. Prestador del servicio:** El propietario y operador de la Aplicación es una persona física que ejerce una actividad no registrada (en el sentido de la Ley polaca de Empresarios): Marcin Głąb.
 * **1.2. Ámbito de la Aplicación:** La Aplicación pone a disposición herramientas de apoyo a la organización de la alimentación, incluyendo la selección algorítmica de recetas y planes de comidas, la función de nevera virtual, listas de la compra y módulos de análisis de imagen (fotografías de comidas y productos) con el uso de inteligencia artificial (IA).
 * **1.3. Restricción de edad:** La Aplicación está destinada exclusivamente a personas mayores de edad (**18+**). El Prestador del servicio no recopila de forma consciente datos de menores. El registro por parte de un menor conlleva la eliminación inmediata de la cuenta.
-* **1.4. Documentos relacionados:** Las reglas de tratamiento de los datos personales se establecen en la [Política de Privacidad](Politica_de_Privacidad_Nourishy.md).
+* **1.4. Documentos relacionados:** Las reglas de tratamiento de los datos personales se establecen en la Política de Privacidad de Nourishy.
 
 ---
 
@@ -36,11 +36,11 @@ Los presentes Términos (también denominados **«EULA»**) establecen las regla
 
 ## 4. Suscripciones Nourishy Premium
 
-* **4.1. Versión Premium:** El acceso a las funciones avanzadas (p. ej. análisis de fotografías, planes ampliados) requiere la compra de una suscripción Premium renovable. Las funciones Premium están sujetas a límites Fair Use: los límites concretos se establecen en el **apartado 8** de las [Condiciones de Suscripción Nourishy Premium](Reglamento_Suscripcion_Nourishy_Premium.md).
+* **4.1. Versión Premium:** El acceso a las funciones avanzadas (p. ej. análisis de fotografías, planes ampliados) requiere la compra de una suscripción Premium renovable. Las funciones Premium están sujetas a límites Fair Use: los límites concretos se establecen en el **apartado 8** de los Términos y Condiciones de la Suscripción Nourishy Premium.
 * **4.2. Pagos in-app:** Todos los pagos y transacciones son gestionados íntegramente por la plataforma **Apple App Store** o **Google Play** (con el uso de la infraestructura técnica de RevenueCat). El Prestador del servicio no almacena ni trata datos de tarjetas de pago.
 * **4.3. Renovación automática:** La suscripción se renueva automáticamente para el siguiente período de facturación (mensual o anual), salvo que se cancele al menos 24 horas antes del final del período de suscripción actual.
-* **4.4. Instrucciones de cancelación de la suscripción (iOS):** El Usuario puede cancelar la suscripción en cualquier momento en la configuración de la cuenta Apple ID:  
-  *Ajustes de iOS -> [Tu Nombre y Apellido / Apple ID] -> Suscripciones -> Nourishy -> Cancelar suscripción*.
+* **4.4. Instrucciones de cancelación de la suscripción (iOS):** El Usuario puede cancelar la suscripción en cualquier momento en la configuración de la Cuenta de Apple:  
+  *Ajustes de iOS → [Tu Nombre y Apellido / Cuenta de Apple] → Suscripciones → Nourishy → Cancelar suscripción*.
 * **4.5. Reembolsos:** Todos los procedimientos de reembolso de las cuotas de suscripción se realizan exclusivamente a través de la tienda Apple App Store o Google Play de conformidad con sus condiciones comerciales internas.
 
 ---
@@ -63,7 +63,7 @@ Los presentes Términos (también denominados **«EULA»**) establecen las regla
 
 ## 7. Eliminación de la cuenta, Reclamaciones y Derechos del Consumidor
 
-* **7.1. Eliminación de la Cuenta:** El Usuario puede eliminar la cuenta en la Aplicación en cualquier momento (`Perfil -> Ajustes -> Eliminar cuenta`). La eliminación de la cuenta provoca el borrado irreversible de los datos de la base de datos de producción.
+* **7.1. Eliminación de la Cuenta:** El Usuario puede eliminar la cuenta en la Aplicación en cualquier momento (`Perfil → Ajustes → Eliminar cuenta`). La eliminación de la cuenta provoca el borrado irreversible de los datos de la base de datos de producción.
 * **7.2. Eliminación de la cuenta y suscripción:** La eliminación de la cuenta **no provoca** la cancelación automática de la suscripción en Apple/Google Store — debe cancelarse manualmente de conformidad con el apartado 4.4.
 * **7.3. Procedimiento de reclamación:** Todas las observaciones, errores técnicos y reclamaciones relativos al funcionamiento de la Aplicación deben presentarse por correo electrónico a la dirección: `support@nourishy.eu`. El Prestador del servicio resuelve las reclamaciones en el plazo de **14 días** desde su recepción.
 

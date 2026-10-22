@@ -2,7 +2,7 @@
 
 **Service Provider:** Marcin Głąb (unregistered business activity)  
 **Contact:** 📧 support@nourishy.eu  
-**Last updated:** October 10, 2026
+**Last updated:** 23 October 2026
 
 This document constitutes the terms and conditions for the provision of electronic services regarding the paid subscription variant (Premium) in the Nourishy mobile application (Application ID: `com.nourishy.app`), hereinafter referred to as the **"Application"**. By purchasing a subscription via the paywall in the Application, the User fully accepts the following terms.
 
@@ -39,7 +39,7 @@ This document constitutes the terms and conditions for the provision of electron
 - **4.2.**
   > ⚠️ **Technical and Legal Limitations:** The Service Provider has neither the technical nor the legal authority to cancel a subscription on behalf of the User or to modify their billing. Cancellation must be performed independently in the system account settings:
   >
-  > * 🍏 **iOS Devices (Apple):** Open *iPhone Settings* → Tap your name (*Apple ID*) → Select *Subscriptions* → Find *Nourishy* → Tap *Cancel Subscription*.
+  > * 🍏 **iOS Devices (Apple):** Open *iPhone Settings* → Tap your name (*Apple Account*) → Select *Subscriptions* → Find *Nourishy* → Tap *Cancel Subscription*.
   > * 🤖 **Android Devices (Google):** Open the *Google Play Store* app → Tap the profile icon in the top right corner → Select *Payments & subscriptions* → Go to *Subscriptions* → Find *Nourishy* → Tap *Cancel subscription*.
 
 ---
@@ -49,7 +49,7 @@ This document constitutes the terms and conditions for the provision of electron
 - **5.1.** Upon proper cancellation of the subscription, the User's account will not be charged again. The User retains full access to all Premium features until the last day of the current, paid billing period. After this time, the account automatically reverts to the free version.
 - **5.2.** The Service Provider does not issue refunds for any unused portion of the subscription period during an active cycle.
 - **5.3. 🇪🇺 MANDATORY EU LEGAL NOTICE (Loss of the 14-day right of withdrawal):**  
-  In accordance with Article 38 point 13 of the Polish Consumer Rights Act and the EU Digital Content Directive, the right to withdraw from a distance contract within 14 days **DOES NOT APPLY** to the consumer in the case of the supply of digital content which is not supplied on a tangible medium if the performance has begun with the consumer’s prior express consent before the end of the withdrawal period and after the trader has provided confirmation of the loss of the right of withdrawal.  
+  In accordance with Article 38 point 13 of the Polish Consumer Rights Act and the EU Digital Content Directive, the right to withdraw from a distance contract within 14 days **DOES NOT APPLY** to the consumer in the case of the supply of digital content which is not supplied on a tangible medium if the performance has begun with the consumer's prior express consent before the end of the withdrawal period and after the trader has provided confirmation of the loss of the right of withdrawal.  
   **By purchasing a Premium subscription and gaining immediate access to the Application's advanced features, the User consents to the immediate delivery of digital content and acknowledges that upon purchase, they lose their statutory right to a 14-day withdrawal from the contract and refund.**
 - **5.4.** All requests for refunds (transactional complaints) are reviewed and processed exclusively and directly by Apple App Store or Google Play support, in accordance with the commercial terms of those platforms.
 - **5.5. Withdrawal of GDPR Consent vs. Contract Execution:** The User acknowledges that the operation of Premium features is technically impossible without processing health-related data (including information on allergies and anthropometric parameters). If the User withdraws consent to process special category data (Art. 9 sec. 2 lit. a GDPR) or requests account deletion during an active Premium subscription, the Service Provider shall be released from the obligation to provide services due to reasons attributable to the User. This situation does not constitute improper performance of the contract by the Service Provider and does not entitle the User to demand a refund of the subscription fees.
@@ -68,7 +68,7 @@ This document constitutes the terms and conditions for the provision of electron
 
 - **7.1.** The provider of the Application and the entity providing Premium services is Marcin Głąb.
 - **7.2.** All questions, service requests, and technical complaints should be directed to the dedicated email address:  
-  📧 **[support@nourishy.eu](mailto:support@nourishy.eu)**
+  📧 **support@nourishy.eu**
 
 ---
 
@@ -78,29 +78,25 @@ This document constitutes the terms and conditions for the provision of electron
 - **8.2.** The billing week starts on **Monday at 00:00** (Europe/Warsaw). The billing day resets at **00:00** (Europe/Warsaw).
 - **8.3. Limits for the Premium account** (and active Trial period treated as Premium):
 
-  | Feature | Daily Limit | Weekly Limit |
-  |---|---|---|
-  | 7-day meal plan generation | 3 | — |
-  | AI recipe generation | 15 | 70 |
-  | Receipt scanning | 3 | 10 |
-  | Meal macro analysis ("Discover macros") | 3 | 10 |
-  | Product / fridge photo analysis | 10 | 50 |
-  | Barcode scanning | 150 | — |
-  | Virtual fridge — active items | — | up to **500** simultaneously |
+  - **7-day meal plan generation** — Daily limit: 3 / Weekly limit: —
+  - **AI recipe generation** — Daily limit: 15 / Weekly limit: 70
+  - **Receipt scanning** — Daily limit: 3 / Weekly limit: 10
+  - **Meal macro analysis ("Discover macros")** — Daily limit: 3 / Weekly limit: 10
+  - **Product / fridge photo analysis** — Daily limit: 10 / Weekly limit: 50
+  - **Barcode scanning** — Daily limit: 150 / Weekly limit: —
+  - **Virtual fridge — active items** — up to **500** simultaneously
 
 - **8.4.** Premium features without a separate quantitative call limit (subject to compliance with the rest of the Terms): including the harmonization of the plan with fridge contents and the activation of subsequent meal plans.
 - **8.5. Indicative limits for the free version (FREE)** — for transparency (these do not constitute a Premium offer):
 
-  | Feature | Limit |
-  |---|---|
-  | 7-day meal plan generation | 1× per account lifetime (demo) |
-  | AI recipe generation | 3 / week |
-  | Meal macro analysis | 3 / week |
-  | Product photo analysis | 2 / week |
-  | Barcode scanning | 15 / week |
-  | Receipt scanning | unavailable |
-  | Virtual fridge — active items | up to **15** simultaneously |
-  | Plan days visibility | Next 3 days |
+  - **7-day meal plan generation** — 1× per account lifetime (demo)
+  - **AI recipe generation** — 3 / week
+  - **Meal macro analysis** — 3 / week
+  - **Product photo analysis** — 2 / week
+  - **Barcode scanning** — 15 / week
+  - **Receipt scanning** — unavailable
+  - **Virtual fridge — active items** — up to **15** simultaneously
+  - **Plan days visibility** — Next 3 days
 
 - **8.6.** The Service Provider may amend the Fair Use limits by announcing a significant change within the Application or by updating these Terms and Conditions. The current content of **Section 8** is the sole binding schedule of limits; in-app marketing messages refer to this section and cannot be interpreted as a promise of unlimited usage.
 - **8.7.** Irrespective of the limits in sections 8.3–8.5, the Service Provider may apply anti-bot protection (short-term restriction of the number of requests in a brief time window) upon detecting unusual activity.

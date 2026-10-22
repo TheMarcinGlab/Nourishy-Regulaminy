@@ -2,7 +2,7 @@
 
 **Usługodawca:** Marcin Głąb (działalność nierejestrowana)  
 **Aplikacja:** Nourishy (identyfikator: `com.nourishy.app`)  
-**Data ostatniej aktualizacji:** 4 sierpnia 2026 r.
+**Data ostatniej aktualizacji:** 23 października 2026 r.
 
 ---
 
@@ -25,7 +25,7 @@
 ## 3. Alergie pokarmowe, nietolerancje i ryzyko Użytkownika
 
 * **3.1. Wyłączenie wykrywania alergenów:** Aplikacja oraz moduły AI mogą nie wykryć alergenów, śladowych ilości substancji uczulających lub składników niepożądanych w skanowanych potrawach i produktach.
-* **3.2. Włączna odpowiedzialność Użytkownika:** Wyłączną odpowiedzialność za weryfikację spożywanych produktów pod kątem własnych alergii, nietolerancji pokarmowych oraz schorzeń ponosi Użytkownik.
+* **3.2. Wyłączna odpowiedzialność Użytkownika:** Wyłączną odpowiedzialność za weryfikację spożywanych produktów pod kątem własnych alergii, nietolerancji pokarmowych oraz schorzeń ponosi Użytkownik.
 * **3.3. Wyłączenie odpowiedzialności odszkodowawczej:** Marcin Głąb nie ponosi odpowiedzialności za jakiekolwiek decyzje żywieniowe Użytkownika, w tym za wystąpienie reakcji alergicznych, wstrząsu anafilaktycznego, zatruć pokarmowych, powikłań zdrowotnych lub uszczerbku na zdrowiu będących następstwem spożycia produktów przeanalizowanych lub zasugerowanych przez Aplikację.
 
 ---
