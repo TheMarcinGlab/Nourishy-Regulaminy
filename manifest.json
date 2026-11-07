@@ -7,19 +7,19 @@
       "required": true,
       "locales": {
         "pl": {
-          "version": "2026-10-23",
+          "version": "2026-11-08",
           "file": "PL/Regulamin_Serwisu_Nourishy.md",
           "title": "Regulamin serwisu Nourishy",
           "subtitle": "Zasady korzystania z aplikacji"
         },
         "en": {
-          "version": "2026-10-23",
+          "version": "2026-11-08",
           "file": "EN/Terms_of_Service_Nourishy.md",
           "title": "Nourishy Terms of Service",
           "subtitle": "Rules for using the app"
         },
         "es": {
-          "version": "2026-10-23",
+          "version": "2026-11-08",
           "file": "ES/Terminos_del_Servicio_Nourishy.md",
           "title": "Términos del servicio Nourishy",
           "subtitle": "Normas de uso de la aplicación"
@@ -30,19 +30,19 @@
       "required": true,
       "locales": {
         "pl": {
-          "version": "2026-10-23",
+          "version": "2026-11-08",
           "file": "PL/Polityka_Prywatnosci_Nourishy.md",
           "title": "Polityka prywatności",
           "subtitle": "RODO i ochrona danych"
         },
         "en": {
-          "version": "2026-10-23",
+          "version": "2026-11-08",
           "file": "EN/Privacy_Policy_Nourishy.md",
           "title": "Privacy Policy",
           "subtitle": "GDPR and data protection"
         },
         "es": {
-          "version": "2026-10-23",
+          "version": "2026-11-08",
           "file": "ES/Politica_de_Privacidad_Nourishy.md",
           "title": "Política de privacidad",
           "subtitle": "RGPD y protección de datos"
@@ -76,19 +76,19 @@
       "required": false,
       "locales": {
         "pl": {
-          "version": "2026-10-23",
+          "version": "2026-11-08",
           "file": "PL/Regulamin_Subskrypcji_Nourishy_Premium.md",
           "title": "Regulamin subskrypcji Premium",
           "subtitle": "Płatności, trial, anulowanie i limity Fair Use"
         },
         "en": {
-          "version": "2026-10-23",
+          "version": "2026-11-08",
           "file": "EN/Premium_Terms_and_Conditions.md",
           "title": "Premium subscription terms",
           "subtitle": "Payments, trial, cancellation and Fair Use limits"
         },
         "es": {
-          "version": "2026-10-23",
+          "version": "2026-11-08",
           "file": "ES/Terminos_y_Condiciones_Premium.md",
           "title": "Términos de suscripción Premium",
           "subtitle": "Pagos, prueba, cancelación y límites Fair Use"
@@ -99,19 +99,19 @@
       "required": false,
       "locales": {
         "pl": {
-          "version": "2026-10-23",
+          "version": "2026-11-08",
           "file": "PL/Centrum_Pomocy_i_Wsparcia_Technicznego_Nourishy.md",
           "title": "Centrum pomocy",
           "subtitle": "FAQ, kontakt i wsparcie techniczne"
         },
         "en": {
-          "version": "2026-10-23",
+          "version": "2026-11-08",
           "file": "EN/Help_and_Support_Center_Nourishy.md",
           "title": "Help center",
           "subtitle": "FAQ, contact and technical support"
         },
         "es": {
-          "version": "2026-10-23",
+          "version": "2026-11-08",
           "file": "ES/Centro_de_Ayuda_Nourishy.md",
           "title": "Centro de ayuda",
           "subtitle": "FAQ, contacto y soporte técnico"
@@ -122,19 +122,19 @@
       "required": false,
       "locales": {
         "pl": {
-          "version": "2026-11-07",
+          "version": "2026-11-08",
           "file": "PL/Źródła_i_podstawy_naukowe.md",
           "title": "Źródła i podstawy naukowe",
           "subtitle": "Bibliografia i metodyka"
         },
         "en": {
-          "version": "2026-11-07",
+          "version": "2026-11-08",
           "file": "EN/Sources_and_Scientific_Basis.md",
           "title": "Sources & Scientific Basis",
           "subtitle": "References and methodology"
         },
         "es": {
-          "version": "2026-11-07",
+          "version": "2026-11-08",
           "file": "ES/Fuentes_y_Bases_Científicas.md",
           "title": "Fuentes y bases científicas",
           "subtitle": "Bibliografía y metodología"
