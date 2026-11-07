@@ -6,8 +6,8 @@
 
 ## 1. Postanowienia ogólne i Administrator Danych
 
-* **1.1.** Niniejsza Polityka Prywatności określa zasady, cele, podstawy prawne oraz czas przetwarzania danych osobowych użytkowników aplikacji mobilnej Nourishy (identyfikator aplikacji: `com.nourishy.app`), zwanej dalej **„Aplikacją"**.
-* **1.2.** Administratorem danych osobowych jest osoba fizyczna nieprowadząca zarejestrowanej działalności gospodarczej (działalność nierejestrowana w rozumieniu polskiej ustawy Prawo przedsiębiorców): Marcin Głąb, zwany dalej „Administratorem".
+* **1.1.** Niniejsza Polityka Prywatności określa zasady, cele, podstawy prawne oraz czas przetwarzania danych osobowych użytkowników aplikacji mobilnej Nourishy (identyfikator aplikacji: `com.nourishy.app`), zwanej dalej **„Aplikacją”**.
+* **1.2.** Administratorem danych osobowych jest osoba fizyczna nieprowadząca zarejestrowanej działalności gospodarczej (działalność nierejestrowana w rozumieniu polskiej ustawy Prawo przedsiębiorców): Marcin Głąb, zwany dalej „Administratorem”.
 * **1.3.** Kontakt z Administratorem jest możliwy pod adresem e-mail: support@nourishy.eu
 * **1.4.** Administrator deklaruje, że przetwarza dane osobowe użytkowników zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. (RODO), polską ustawą o ochronie danych osobowych oraz ustawą o świadczeniu usług drogą elektroniczną.
 * **1.5. Ograniczenie wiekowe:** Aplikacja przeznaczona jest wyłącznie dla osób pełnoletnich, które ukończyły **18 rok życia**. Administrator nie zbiera w sposób świadomy, nie przetwarza ani nie przechowuje danych osobowych, w tym danych o zdrowiu, osób poniżej 18 roku życia. Jeżeli Administrator poweźmie informację, że doszło do rejestracji konta przez osobę niepełnoletnią, konto takie wraz ze wszystkimi powiązanymi danymi zostanie natychmiastowo i bezpowrotnie usunięte z systemów produkcyjnych w czasie rzeczywistym.
@@ -77,7 +77,7 @@ Każdemu użytkownikowi Aplikacji przysługują pełne prawa wynikające z przep
 
 * **7.1. Prawo dostępu do danych oraz otrzymania ich kopii (Art. 15 RODO).**
 * **7.2. Prawo do sprostowania i poprawiania danych (Art. 16 RODO).**
-* **7.3. Prawo do usunięcia danych / „prawo do bycia zapomnianym" (Art. 17 RODO).**
+* **7.3. Prawo do usunięcia danych / „prawo do bycia zapomnianym” (Art. 17 RODO).**
 * **7.4. Prawo do ograniczenia przetwarzania danych (Art. 18 RODO).**
 * **7.5. Prawo do przenoszenia danych w formacie strukturyzowanym (Art. 20 RODO).**
 * **7.6. Prawo do sprzeciwu wobec przetwarzania opartego na prawnie uzasadnionym interesie (Art. 21 RODO).**

@@ -28,9 +28,9 @@ Wszystkie płatności w aplikacji Nourishy są przetwarzane bezpośrednio i wył
 Możesz to zrobić samodzielnie w zaledwie kilka sekund:
 
 * 📱 **Jeśli używasz urządzenia Apple (iOS):**  
-  Wejdź w *Ustawienia iPhone'a* → Stuknij w swoje imię i nazwisko (*Konto Apple*) na samej górze → Wybierz sekcję *„Subskrypcje"* → Znajdź *Nourishy* i kliknij *„Anuluj subskrypcję"*.
+  Wejdź w *Ustawienia iPhone'a* → Stuknij w swoje imię i nazwisko (*Konto Apple*) na samej górze → Wybierz sekcję *„Subskrypcje”* → Znajdź *Nourishy* i kliknij *„Anuluj subskrypcję”*.
 * 🤖 **Jeśli używasz urządzenia z systemem Android:**  
-  Otwórz *Sklep Google Play* → Stuknij ikonę swojego profilu w prawym górnym rogu → Wybierz *„Płatności i subskrypcje"* → Wejdź w *„Subskrypcje"* → Znajdź *Nourishy* i kliknij *„Anuluj subskrypcję"*.
+  Otwórz *Sklep Google Play* → Stuknij ikonę swojego profilu w prawym górnym rogu → Wybierz *„Płatności i subskrypcje”* → Wejdź w *„Subskrypcje”* → Znajdź *Nourishy* i kliknij *„Anuluj subskrypcję”*.
 
 *Po anulowaniu zachowasz dostęp do wszystkich funkcji Premium do końca bieżącego, opłaconego już okresu rozliczeniowego.*
 
@@ -41,7 +41,7 @@ Masz pełne prawo do bycia zapomnianym zgodnie z RODO. Aby trwale usunąć konto
 1. Otwórz aplikację **Nourishy**.
 2. Przejdź do zakładki **Profil**.
 3. Wejdź w **Ustawienia**.
-4. Wybierz opcję **„Usuń konto"** i potwierdź swój wybór.
+4. Wybierz opcję **„Usuń konto”** i potwierdź swój wybór.
 
 ⚠️ **BEZWZGLĘDNE OSTRZEŻENIE PRAWNE:** Proces usunięcia konta w aplikacji jest natychmiastowy i nieodwracalny. Pamiętaj jednak, że **usunięcie konta NIE POWODUJE automatycznego anulowania aktywnej subskrypcji Premium** u operatora sklepu (Apple/Google). Aby uniknąć dalszego pobierania opłat, przed usunięciem konta musisz bezwzględnie anulować subskrypcję w ustawieniach swojego urządzenia (zgodnie z instrukcją w pkt 1 powyżej).
 

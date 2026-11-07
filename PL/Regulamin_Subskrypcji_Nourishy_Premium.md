@@ -4,7 +4,7 @@
 **Kontakt:** 📧 support@nourishy.eu  
 **Data ostatniej aktualizacji:** 23 października 2026 r.
 
-Niniejszy dokument stanowi regulamin świadczenia usług drogą elektroniczną w zakresie płatnego wariantu subskrypcji (Premium) w aplikacji mobilnej Nourishy (identyfikator aplikacji: `com.nourishy.app`), zwanej dalej **„Aplikacją"**. Dokonując zakupu subskrypcji za pośrednictwem paywalla w Aplikacji, Użytkownik w pełni akceptuje poniższe warunki.
+Niniejszy dokument stanowi regulamin świadczenia usług drogą elektroniczną w zakresie płatnego wariantu subskrypcji (Premium) w aplikacji mobilnej Nourishy (identyfikator aplikacji: `com.nourishy.app`), zwanej dalej **„Aplikacją”**. Dokonując zakupu subskrypcji za pośrednictwem paywalla w Aplikacji, Użytkownik w pełni akceptuje poniższe warunki.
 
 ---
 
@@ -81,7 +81,7 @@ Niniejszy dokument stanowi regulamin świadczenia usług drogą elektroniczną w
   - **Generowanie planu posiłków 7-dniowego** — limit dzienny: 3 / limit tygodniowy: —
   - **Generowanie przepisów AI** — limit dzienny: 15 / limit tygodniowy: 70
   - **Skanowanie paragonu** — limit dzienny: 3 / limit tygodniowy: 10
-  - **Analiza makro dania („Poznaj makro")** — limit dzienny: 3 / limit tygodniowy: 10
+  - **Analiza makro dania („Poznaj makro”)** — limit dzienny: 3 / limit tygodniowy: 10
   - **Analiza zdjęcia produktów / lodówki** — limit dzienny: 10 / limit tygodniowy: 50
   - **Skanowanie kodu kreskowego** — limit dzienny: 150 / limit tygodniowy: —
   - **Wirtualna lodówka — aktywne pozycje** — do **500** jednocześnie

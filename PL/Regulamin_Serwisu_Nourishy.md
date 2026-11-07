@@ -4,7 +4,7 @@
 **Kontakt:** 📧 support@nourishy.eu  
 **Data ostatniej aktualizacji:** 23 października 2026 r.
 
-Niniejszy Regulamin (zwany również **„EULA"**) określa zasady korzystania z aplikacji mobilnej Nourishy (identyfikator: `com.nourishy.app`), zwanej dalej **„Aplikacją"**. Pobranie, instalacja lub utworzenie konta w Aplikacji oznacza pełną akceptację niniejszego Regulaminu.
+Niniejszy Regulamin (zwany również **„EULA”**) określa zasady korzystania z aplikacji mobilnej Nourishy (identyfikator: `com.nourishy.app`), zwanej dalej **„Aplikacją”**. Pobranie, instalacja lub utworzenie konta w Aplikacji oznacza pełną akceptację niniejszego Regulaminu.
 
 ---
 

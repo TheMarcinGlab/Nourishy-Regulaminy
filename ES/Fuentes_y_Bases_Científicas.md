@@ -115,8 +115,8 @@ Incluso si un usuario es elegible para usar la aplicación, algunas combinacione
 Los cálculos de las necesidades calóricas y de macronutrientes en la aplicación Nourishy se basan en fórmulas clínicas ampliamente reconocidas:
 
 - **Ecuación de Mifflin-St Jeor:** La Tasa Metabólica Basal (TMB) se calcula con la fórmula estándar reconocida por la Academy of Nutrition and Dietetics:
-  - Hombres: $TMB = (10 \times \text{peso [kg]}) + (6.25 \times \text{estatura [cm]}) - (5 \times \text{edad}) + 5$
-  - Mujeres: $TMB = (10 \times \text{peso [kg]}) + (6.25 \times \text{estatura [cm]}) - (5 \times \text{edad}) - 161$
+  - Hombres: TMB = 10 × peso [kg] + 6.25 × estatura [cm] − 5 × edad + 5
+  - Mujeres: TMB = 10 × peso [kg] + 6.25 × estatura [cm] − 5 × edad − 161
 - **Coeficientes de Nivel de Actividad Física (NAF):** Los niveles de actividad y el Gasto Energético Total Diario (GETD) se calculan según las directrices de la FAO/OMS (véase la sección 1.1).
 - **Clasificación del IMC:** Los umbrales de peso se adoptan directamente de las directrices oficiales de la Organización Mundial de la Salud (OMS) (véase la sección 1.2).
 
@@ -127,7 +127,7 @@ Los cálculos de las necesidades calóricas y de macronutrientes en la aplicaci�
 En caso de dudas sobre la elegibilidad para usar la aplicación o sus bases científicas:
 
 - Consulte a su médico de atención primaria o a un dietista clínico.
-- Escríbanos: 📧 **support@nourishy.eu**
+- Escríbanos: **support@nourishy.eu**
 
 ---
 

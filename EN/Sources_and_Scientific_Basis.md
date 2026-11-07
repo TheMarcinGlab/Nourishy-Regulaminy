@@ -115,8 +115,8 @@ Even if a user is eligible to use the app, some combinations of parameters are b
 The caloric and macronutrient requirement calculations in the Nourishy app are based on widely accepted clinical formulas:
 
 - **Mifflin-St Jeor Equation:** Basal Metabolic Rate (BMR) is calculated using the standard formula recognised by the Academy of Nutrition and Dietetics:
-  - Men: $BMR = (10 \times \text{weight [kg]}) + (6.25 \times \text{height [cm]}) - (5 \times \text{age}) + 5$
-  - Women: $BMR = (10 \times \text{weight [kg]}) + (6.25 \times \text{height [cm]}) - (5 \times \text{age}) - 161$
+  - Men: BMR = 10 × weight [kg] + 6.25 × height [cm] − 5 × age + 5
+  - Women: BMR = 10 × weight [kg] + 6.25 × height [cm] − 5 × age − 161
 - **Physical Activity Level coefficients (PAL):** Activity levels and Total Daily Energy Expenditure (TDEE) are calculated in accordance with FAO/WHO guidelines (see section 1.1).
 - **BMI Classification:** Weight thresholds adopted directly from the official guidelines of the World Health Organization (WHO) (see section 1.2).
 
@@ -127,7 +127,7 @@ The caloric and macronutrient requirement calculations in the Nourishy app are b
 If you have questions regarding eligibility to use the app or its scientific basis:
 
 - Consult your primary care physician or a clinical dietitian.
-- Write to us: 📧 **support@nourishy.eu**
+- Write to us: **support@nourishy.eu**
 
 ---
 

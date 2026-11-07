@@ -93,7 +93,7 @@ W tym: cukrzyca typu 1 i 2, przewlekła choroba nerek, niewydolność wątroby, 
 
 Nawet jeśli użytkownik kwalifikuje się do korzystania z aplikacji, niektóre kombinacje parametrów są blokowane:
 
-- **Redukcja masy ciała przy BMI < 18.5:** Cel „redukcja masy ciała" (lose_weight) jest niedostępny, gdy BMI < 18.5. Zgodnie z wytycznymi WHO redukcja wagi w stanie niedowagi grozi powikłaniami metabolicznymi. Bezpiecznym wyborem jest „utrzymanie wagi" lub „budowa masy mięśniowej".
+- **Redukcja masy ciała przy BMI < 18.5:** Cel „redukcja masy ciała” (lose_weight) jest niedostępny, gdy BMI < 18.5. Zgodnie z wytycznymi WHO redukcja wagi w stanie niedowagi grozi powikłaniami metabolicznymi. Bezpiecznym wyborem jest „utrzymanie wagi” lub „budowa masy mięśniowej”.
 - **Diety eliminacyjne z wykluczeniem wszystkich warzyw:** Dieta wegańska, wegetariańska, śródziemnomorska lub ketogeniczna połączona z wykluczeniem wszystkich warzyw jest zablokowana z uwagi na ryzyko skrajnych niedoborów mikroskładników i błonnika.
 - **Dieta wegańska + budowa mięśni + ≥ 2 alergie na strączki/orzechy:** Zablokowana przy jednoczesnej alergii na co najmniej 2 grupy: soja, orzechy, orzeszki ziemne, łubin. Bezpieczne zbilansowanie wysokiej podaży białka roślinnego w tych warunkach wymaga opieki dietetyka.
 - **Maksymalnie 6 alergenów jednocześnie:** Powyżej 6 wykluczeń pula produktów staje się zbyt wąska, co uniemożliwia wygenerowanie zbilansowanego planu.
@@ -105,8 +105,8 @@ Nawet jeśli użytkownik kwalifikuje się do korzystania z aplikacji, niektóre 
 Wyliczenia zapotrzebowania kalorycznego i makroskładników w aplikacji Nourishy opierają się na powszechnie uznanych wzorach klinicznych:
 
 - **Wzór Mifflin-St Jeor:** Podstawowa Przemiana Materii (BMR) wyliczana jest ze standardowego wzoru uznawanego przez Academy of Nutrition and Dietetics:
-  - Mężczyźni: $BMR = (10 \times \text{waga [kg]}) + (6.25 \times \text{wzrost [cm]}) - (5 \times \text{wiek}) + 5$
-  - Kobiety: $BMR = (10 \times \text{waga [kg]}) + (6.25 \times \text{wzrost [cm]}) - (5 \times \text{wiek}) - 161$
+  - Mężczyźni: BMR = 10 × waga [kg] + 6,25 × wzrost [cm] − 5 × wiek + 5
+  - Kobiety: BMR = 10 × waga [kg] + 6,25 × wzrost [cm] − 5 × wiek − 161
 - **Współczynniki Aktywności Fizycznej (PAL):** Poziomy aktywności i Całkowite Zapotrzebowanie Energetyczne (TDEE) wyliczane są według wytycznych FAO/WHO (zob. rozdz. 1.1).
 - **Klasyfikacja BMI:** Progi masowe przyjęte bezpośrednio z oficjalnych wytycznych World Health Organization (WHO) (zob. rozdz. 1.2).
 
@@ -117,7 +117,7 @@ Wyliczenia zapotrzebowania kalorycznego i makroskładników w aplikacji Nourishy
 W razie pytań dotyczących kwalifikacji do korzystania z aplikacji lub podstaw naukowych:
 
 - Skonsultuj się z lekarzem pierwszego kontaktu lub dietetykiem klinicznym.
-- Napisz do nas: 📧 **support@nourishy.eu**
+- Napisz do nas: **support@nourishy.eu**
 
 ---
 
