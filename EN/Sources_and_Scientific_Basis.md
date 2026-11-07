@@ -26,7 +26,7 @@ The sources listed below constitute the substantive foundation for the algorithm
 ### 1.3. Food Composition and Macronutrient Data
 
 - **USDA FoodData Central** — a public food composition database (CC0 licence).
-  - 🔗 https://fdc.nal.usda.gov/
+  - 🔗 https://fdc.nal.usda.gov/resources
 
 ### 1.4. Methods of Measuring Resting Metabolic Rate (Academy of Nutrition and Dietetics)
 

@@ -26,7 +26,7 @@ Las fuentes que se indican a continuación constituyen la base sustantiva de los
 ### 1.3. Datos sobre composición de los alimentos y macronutrientes
 
 - **USDA FoodData Central** — base de datos pública sobre composición de los alimentos (licencia CC0).
-  - 🔗 https://fdc.nal.usda.gov/
+  - 🔗 https://fdc.nal.usda.gov/resources
 
 ### 1.4. Métodos de medición del gasto metabólico en reposo (Academy of Nutrition and Dietetics)
 
