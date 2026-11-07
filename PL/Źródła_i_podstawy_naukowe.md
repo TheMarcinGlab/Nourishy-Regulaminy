@@ -1,7 +1,7 @@
 # 🔬 Źródła naukowe, metodyka i kwalifikacja
 
 **Aplikacja:** Nourishy (identyfikator: `com.nourishy.app`)  
-**Data ostatniej aktualizacji:** 23 października 2026 r.
+**Data ostatniej aktualizacji:** 7 listopada 2026 r.
 
 Aplikacja Nourishy wspiera zdrowe odżywianie i planowanie posiłków, ale **nie zastępuje profesjonalnej opieki medycznej**. Niniejszy dokument przedstawia kryteria kwalifikacji użytkowników, zasady blokad kombinacji oraz naukowe podstawy stosowanych algorytmów.
 
@@ -9,7 +9,45 @@ Wszelkie ograniczenia i reguły bezpieczeństwa w aplikacji wynikają z troski o
 
 ---
 
-## 1. Kryteria kwalifikacji do korzystania z aplikacji
+## 1. Źródła i bibliografia
+
+Poniższe źródła stanowią podstawę merytoryczną stosowanych w aplikacji algorytmów, progów i klasyfikacji. Są to dokumenty i bazy referencyjne instytucji publicznych oraz recenzowane publikacje naukowe.
+
+### 1.1. Współczynniki aktywności fizycznej (PAL) i zapotrzebowanie energetyczne (TDEE)
+
+- **FAO/WHO/UNU (2004).** *Human energy requirements: Report of a Joint FAO/WHO/UNU Expert Consultation.* Rome, 17–24 October 2001. FAO Food and Nutrition Technical Report Series, No. 1. Rozdział 5 dotyczy dorosłych.
+  - 🔗 https://www.fao.org/3/y5686e/y5686e00.htm
+
+### 1.2. Klasyfikacja BMI
+
+- **World Health Organization (WHO).** *BMI classification* — progi: < 18.5 niedowaga, 18.5–24.9 wartość prawidłowa, ≥ 25 nadwaga, ≥ 30 otyłość.
+  - 🔗 https://apps.who.int/nutrition/landscape/help.aspx?helpid=420
+
+### 1.3. Dane o składzie żywności i makroskładnikach
+
+- **USDA FoodData Central** — publiczna baza składu żywności (licencja CC0).
+  - 🔗 https://fdc.nal.usda.gov/resources
+
+### 1.4. Metody pomiaru spoczynkowej przemiany materii (Academy of Nutrition and Dietetics)
+
+- **Compher, C., Frankenfield, D., Keim, N., & Roth-Yousey, L. (2006).** *Best practice methods to apply to measurement of resting metabolic rate in adults: a systematic review.* Journal of the American Dietetic Association, 106(6), 881–903.
+  - Uzasadnienie uznania wzoru Mifflin-St Jeor za referencyjny dla obliczeń BMR (Academy of Nutrition and Dietetics).
+
+### 1.5. National Institutes of Health (NIH)
+
+- **NIH Office of Dietary Supplements (ODS)** — rzetelne informacje o składnikach odżywczych i suplementach.
+  - 🔗 https://ods.od.nih.gov
+
+### 1.6. Bibliografia publikacji
+
+1. **Mifflin, M. D., St Jeor, S. T., Hill, L. A., Scott, B. J., Daugherty, S. A., & Koh, Y. O. (1990).** *A new predictive equation for resting energy expenditure in healthy individuals.* The American Journal of Clinical Nutrition, 51(2), 241–247.
+2. **World Health Organization (2000).** *Obesity: preventing and managing the global epidemic.* Report of a WHO consultation (WHO Technical Report Series, No. 894).
+3. **European Food Safety Authority (EFSA) (2017).** *Dietary Reference Values for nutrients: Summary report.* EFSA Supporting Publications, 14(12).
+4. **Compher, C., Frankenfield, D., Keim, N., & Roth-Yousey, L. (2006).** *Best practice methods to apply to measurement of resting metabolic rate in adults: a systematic review.* Journal of the American Dietetic Association, 106(6), 881–903.
+
+---
+
+## 2. Kryteria kwalifikacji do korzystania z aplikacji
 
 Aby bezpiecznie korzystać z rekomendacji żywieniowych i algorytmów obliczeniowych, użytkownik musi spełniać poniższe kryteria:
 
@@ -21,37 +59,37 @@ Aby bezpiecznie korzystać z rekomendacji żywieniowych i algorytmów obliczenio
 
 ---
 
-## 2. Kto nie kwalifikuje się do korzystania z aplikacji
+## 3. Kto nie kwalifikuje się do korzystania z aplikacji
 
 Jeśli którakolwiek z poniższych sytuacji dotyczy użytkownika, **aplikacja nie powinna być używana jako źródło planów żywieniowych** — wymagana jest konsultacja lekarska lub dietetyczna.
 
-### 2.1. Osoby z BMI poniżej 16.0 (niedowaga znaczna)
+### 3.1. Osoby z BMI poniżej 16.0 (niedowaga znaczna)
 
 BMI < 16 wskazuje na niedowagę znaczną, która może być objawem zaburzeń odżywiania (anoreksja, bulimia), chorób przewlekłych lub zaburzeń hormonalnych. W takich przypadkach algorytmiczne planowanie diety może pogłębić problem zdrowotny. Wymagana jest konsultacja z lekarzem lub dietetykiem klinicznym.
 
-### 2.2. Osoby z BMI powyżej 45.0 (otyłość olbrzymia)
+### 3.2. Osoby z BMI powyżej 45.0 (otyłość olbrzymia)
 
 BMI > 45 wiąże się z wysokim ryzykiem chorób współistniejących (cukrzyca typu 2, nadciśnienie, choroby serca). Plan żywieniowy musi być prowadzony pod bezpośrednim nadzorem zespołu medycznego.
 
-### 2.3. Osoby poniżej 18. roku życia
+### 3.3. Osoby poniżej 18. roku życia
 
 Zapotrzebowanie energetyczne i makroskładnikowe u dzieci i młodzieży zależy od fazy wzrostu, dojrzewania i indywidualnych czynników rozwojowych. Wzory BMR nie mają zastosowania w tej grupie wiekowej.
 
-### 2.4. Kobiety w ciąży i karmiące piersią
+### 3.4. Kobiety w ciąży i karmiące piersią
 
 Zapotrzebowanie kaloryczne i makroskładnikowe w ciąży i podczas laktacji wymaga indywidualnego dostosowania przez lekarza prowadzącego. Standardowe wzory nie uwzględniają tych stanów.
 
-### 2.5. Osoby z aktywnymi zaburzeniami odżywiania
+### 3.5. Osoby z aktywnymi zaburzeniami odżywiania
 
 Narzędzia do liczenia kalorii, planowania posiłków i redukcji masy ciała mogą nasilać objawy zaburzeń odżywiania (anoreksja, bulimia, ortoreksja). W tym stanie priorytetem jest leczenie specjalistyczne, nie dieta algorytmiczna.
 
-### 2.6. Osoby z chorobami przewlekłymi wymagającymi diety leczniczej
+### 3.6. Osoby z chorobami przewlekłymi wymagającymi diety leczniczej
 
 W tym: cukrzyca typu 1 i 2, przewlekła choroba nerek, niewydolność wątroby, choroby tarczycy w fazie aktywnej, choroby autoimmunologiczne przewodu pokarmowego (celiakia, ChLC, WZJG) oraz nowotwory w trakcie leczenia. W tych stanach dieta jest elementem terapii i musi być ustalana przez lekarza specjalistę.
 
 ---
 
-## 3. Dlaczego wybrane kombinacje ustawień są niedostępne
+## 4. Dlaczego wybrane kombinacje ustawień są niedostępne
 
 Nawet jeśli użytkownik kwalifikuje się do korzystania z aplikacji, niektóre kombinacje parametrów są blokowane:
 
@@ -62,23 +100,15 @@ Nawet jeśli użytkownik kwalifikuje się do korzystania z aplikacji, niektóre 
 
 ---
 
-## 4. Metodyka obliczeń i podstawy naukowe
+## 5. Metodyka obliczeń i podstawy naukowe
 
 Wyliczenia zapotrzebowania kalorycznego i makroskładników w aplikacji Nourishy opierają się na powszechnie uznanych wzorach klinicznych:
 
 - **Wzór Mifflin-St Jeor:** Podstawowa Przemiana Materii (BMR) wyliczana jest ze standardowego wzoru uznawanego przez Academy of Nutrition and Dietetics:
   - Mężczyźni: $BMR = (10 \times \text{waga [kg]}) + (6.25 \times \text{wzrost [cm]}) - (5 \times \text{wiek}) + 5$
   - Kobiety: $BMR = (10 \times \text{waga [kg]}) + (6.25 \times \text{wzrost [cm]}) - (5 \times \text{wiek}) - 161$
-- **Współczynniki Aktywności Fizycznej (PAL):** Poziomy aktywności i Całkowite Zapotrzebowanie Energetyczne (TDEE) wyliczane są według wytycznych FAO/WHO.
-- **Klasyfikacja BMI:** Progi masowe przyjęte bezpośrednio z oficjalnych wytycznych World Health Organization (WHO).
-
----
-
-## 5. Oficjalna bibliografia medyczna
-
-1. **Mifflin, M. D., St Jeor, S. T., Hill, L. A., Scott, B. J., Daugherty, S. A., & Koh, Y. O. (1990).** *A new predictive equation for resting energy expenditure in healthy individuals.* The American Journal of Clinical Nutrition, 51(2), 241–247.
-2. **World Health Organization (2000).** *Obesity: preventing and managing the global epidemic.* Report of a WHO consultation (WHO Technical Report Series, No. 894).
-3. **European Food Safety Authority (EFSA) (2017).** *Dietary Reference Values for nutrients: Summary report.* EFSA Supporting Publications, 14(12).
+- **Współczynniki Aktywności Fizycznej (PAL):** Poziomy aktywności i Całkowite Zapotrzebowanie Energetyczne (TDEE) wyliczane są według wytycznych FAO/WHO (zob. rozdz. 1.1).
+- **Klasyfikacja BMI:** Progi masowe przyjęte bezpośrednio z oficjalnych wytycznych World Health Organization (WHO) (zob. rozdz. 1.2).
 
 ---
 

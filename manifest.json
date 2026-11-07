@@ -122,19 +122,19 @@
       "required": false,
       "locales": {
         "pl": {
-          "version": "2026-10-23",
+          "version": "2026-11-07",
           "file": "PL/Źródła_i_podstawy_naukowe.md",
           "title": "Źródła i podstawy naukowe",
           "subtitle": "Bibliografia i metodyka"
         },
         "en": {
-          "version": "2026-10-23",
+          "version": "2026-11-07",
           "file": "EN/Sources_and_Scientific_Basis.md",
           "title": "Sources & Scientific Basis",
           "subtitle": "References and methodology"
         },
         "es": {
-          "version": "2026-10-23",
+          "version": "2026-11-07",
           "file": "ES/Fuentes_y_Bases_Científicas.md",
           "title": "Fuentes y bases científicas",
           "subtitle": "Bibliografía y metodología"
